@@ -1,0 +1,59 @@
+{
+  "account": {
+    "starting_balance": 50000,
+    "current_balance": 50000,
+    "weekly_target": 3000,
+    "week_start_balance": 50000,
+    "week_pnl": 0,
+    "total_pnl": 0,
+    "instrument": "NQ (E-mini Nasdaq-100 Futures)",
+    "contract_value_per_point": 20,
+    "tick_size": 0.25,
+    "tick_value": 5
+  },
+  "strategies": {
+    "my_day_trade": {
+      "name": "Structure + VWAP Reclaim (Claude)",
+      "balance": 50000,
+      "pnl": 0,
+      "wins": 0,
+      "losses": 0,
+      "breakevens": 0,
+      "total_trades": 0,
+      "win_rate": 0
+    },
+    "strat1": {
+      "name": "HTF Flow + Session Levels + Confluence (User S1)",
+      "balance": 50000,
+      "pnl": 0,
+      "wins": 0,
+      "losses": 0,
+      "breakevens": 0,
+      "total_trades": 0,
+      "win_rate": 0
+    },
+    "strat2": {
+      "name": "FVG + VWAP Absorption (User S2)",
+      "balance": 50000,
+      "pnl": 0,
+      "wins": 0,
+      "losses": 0,
+      "breakevens": 0,
+      "total_trades": 0,
+      "win_rate": 0
+    },
+    "swing": {
+      "name": "Weekly Level Fades - Swing (Claude)",
+      "balance": 50000,
+      "pnl": 0,
+      "wins": 0,
+      "losses": 0,
+      "breakevens": 0,
+      "open_positions": [],
+      "total_trades": 0,
+      "win_rate": 0
+    }
+  },
+  "open_trades": [],
+  "last_updated": "2026-06-17"
+}
