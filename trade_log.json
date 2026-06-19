@@ -1,3 +1,21 @@
 {
-  "trades": []
+  "trades": [
+    {
+      "id": "61ff530f",
+      "strategy": "strat4",
+      "direction": "long",
+      "entry": 30594.5,
+      "sl": 30591.0,
+      "tp": 30601.5,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-06-18T23:02:50.112166-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | DOL=ny_high @ 30783.25 | VWAP tap @ 30583.95 | FVG=bullish [30561.00\u201330600.75]",
+      "be_moved": false
+    }
+  ]
 }
