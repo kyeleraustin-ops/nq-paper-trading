@@ -24,13 +24,13 @@
     },
     "strat1": {
       "name": "HTF Flow + Session Levels + Confluence (User S1)",
-      "balance": 50000,
-      "pnl": 0,
+      "balance": 48910.0,
+      "pnl": -1090.0,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "breakevens": 0,
       "total_trades": 1,
-      "win_rate": 0
+      "win_rate": 0.0
     },
     "strat2": {
       "name": "FVG + VWAP Absorption (User S2)",
@@ -65,13 +65,13 @@
     },
     "strat4": {
       "name": "Structure + DOL + VWAP Tap + FVG (S4)",
-      "balance": 50000,
-      "pnl": 0,
+      "balance": 49930.0,
+      "pnl": -70.0,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "breakevens": 0,
       "total_trades": 1,
-      "win_rate": 0
+      "win_rate": 0.0
     },
     "strat5": {
       "name": "Structure + DOL + VWAP/Band Tap + Absorption (S5)",
@@ -94,15 +94,6 @@
       "win_rate": 0
     }
   },
-  "open_trades": [
-    {
-      "id": "61ff530f",
-      "strategy": "strat4"
-    },
-    {
-      "id": "9b6750f4",
-      "strategy": "strat1"
-    }
-  ],
-  "last_updated": "2026-06-18"
+  "open_trades": [],
+  "last_updated": "2026-06-19"
 }
