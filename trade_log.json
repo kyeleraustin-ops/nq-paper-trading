@@ -42,12 +42,12 @@
       "sl": 29878.0,
       "tp": 29769.25,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-06-23T07:35:05.760282-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29878.0,
+      "exit_time": "2026-06-23T08:05:20.375167-04:00",
+      "pnl_points": -36.25,
+      "pnl_dollars": -725.0,
       "reasoning": "15m structure=bearish | draw=-1SD @ 29817.30 | absorption=True | VWAP=29966.19 | side=below VWAP",
       "be_moved": false
     }
