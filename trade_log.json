@@ -50,6 +50,23 @@
       "pnl_dollars": -725.0,
       "reasoning": "15m structure=bearish | draw=-1SD @ 29817.30 | absorption=True | VWAP=29966.19 | side=below VWAP",
       "be_moved": false
+    },
+    {
+      "id": "0fd0934f",
+      "strategy": "strat3",
+      "direction": "short",
+      "entry": 29740.5,
+      "sl": 29745.0,
+      "tp": 29731.5,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-06-23T20:15:31.715538-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bearish | draw=-1SD @ 29694.35 | absorption=True | VWAP=29825.48 | side=below VWAP",
+      "be_moved": false
     }
   ]
 }
