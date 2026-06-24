@@ -14,13 +14,13 @@
   "strategies": {
     "bot1": {
       "name": "FVG + VWAP Touch (Bot1)",
-      "balance": 50000,
-      "pnl": 0,
+      "balance": 49500.0,
+      "pnl": -500.0,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "breakevens": 0,
       "total_trades": 1,
-      "win_rate": 0
+      "win_rate": 0.0
     },
     "my_day_trade": {
       "name": "Structure + VWAP Reclaim (Claude)",
@@ -104,11 +104,6 @@
       "win_rate": 0.0
     }
   },
-  "open_trades": [
-    {
-      "id": "444ab185",
-      "strategy": "bot1"
-    }
-  ],
+  "open_trades": [],
   "last_updated": "2026-06-24"
 }

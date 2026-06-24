@@ -144,12 +144,12 @@
       "sl": 29827.25,
       "tp": 29902.25,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-06-24T08:00:16.034136-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29827.25,
+      "exit_time": "2026-06-24T08:11:21.691888-04:00",
+      "pnl_points": -25.0,
+      "pnl_dollars": -500.0,
       "reasoning": "bias=bullish | FVG=bullish [29816.50\u201329844.00] | upper1=29843.29 inside FVG | touch=True | rejection=True",
       "be_moved": false
     }
