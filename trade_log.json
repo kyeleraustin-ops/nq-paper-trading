@@ -73,7 +73,7 @@
       "strategy": "strat1",
       "direction": "short",
       "entry": 29814.75,
-      "sl": 29900.75,
+      "sl": 29814.75,
       "tp": 29642.75,
       "contracts": 1,
       "status": "open",
@@ -83,7 +83,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "HTF=bearish | FVG=False | VWAP=True | Fib=0.786 | session=True | confluence=2/3 | rejection=True",
-      "be_moved": false
+      "be_moved": true
     },
     {
       "id": "b0d0e30f",
@@ -117,6 +117,23 @@
       "pnl_points": -54.25,
       "pnl_dollars": -1085.0,
       "reasoning": "15m structure=bearish | DOL=london_low @ 29752.00 | tap=VWAP @ 29825.39 | absorption=True | no FVG required",
+      "be_moved": false
+    },
+    {
+      "id": "390abf6a",
+      "strategy": "strat6",
+      "direction": "long",
+      "entry": 29727.75,
+      "sl": 29716.0,
+      "tp": 29751.25,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-06-24T00:04:46.258886-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | DOL=asia_high @ 29891.75 | VWAP rebalance (extended 6 bars past \u00b11SD) | FVG=bullish [29727.00\u201329727.75] | VWAP=29825.06",
       "be_moved": false
     }
   ]
