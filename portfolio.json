@@ -29,7 +29,7 @@
       "wins": 0,
       "losses": 1,
       "breakevens": 0,
-      "total_trades": 1,
+      "total_trades": 2,
       "win_rate": 0.0
     },
     "strat2": {
@@ -55,12 +55,12 @@
     },
     "strat3": {
       "name": "Market Structure + Draw + Absorption (S3)",
-      "balance": 49275.0,
-      "pnl": -725.0,
+      "balance": 49185.0,
+      "pnl": -815.0,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "breakevens": 0,
-      "total_trades": 2,
+      "total_trades": 3,
       "win_rate": 0.0
     },
     "strat4": {
@@ -80,7 +80,7 @@
       "wins": 0,
       "losses": 0,
       "breakevens": 0,
-      "total_trades": 0,
+      "total_trades": 1,
       "win_rate": 0
     },
     "strat6": {
@@ -96,8 +96,16 @@
   },
   "open_trades": [
     {
-      "id": "0fd0934f",
+      "id": "784b4494",
+      "strategy": "strat1"
+    },
+    {
+      "id": "b0d0e30f",
       "strategy": "strat3"
+    },
+    {
+      "id": "75da128c",
+      "strategy": "strat5"
     }
   ],
   "last_updated": "2026-06-23"
