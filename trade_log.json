@@ -127,12 +127,12 @@
       "sl": 29716.0,
       "tp": 29751.25,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-06-24T00:04:46.258886-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29716.0,
+      "exit_time": "2026-06-24T00:19:53.089256-04:00",
+      "pnl_points": -11.75,
+      "pnl_dollars": -235.0,
       "reasoning": "15m structure=bullish | DOL=asia_high @ 29891.75 | VWAP rebalance (extended 6 bars past \u00b11SD) | FVG=bullish [29727.00\u201329727.75] | VWAP=29825.06",
       "be_moved": false
     }

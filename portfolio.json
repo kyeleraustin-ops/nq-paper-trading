@@ -85,23 +85,19 @@
     },
     "strat6": {
       "name": "Structure + DOL + VWAP Rebalance + FVG (S6)",
-      "balance": 50000,
-      "pnl": 0,
+      "balance": 49765.0,
+      "pnl": -235.0,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "breakevens": 0,
       "total_trades": 1,
-      "win_rate": 0
+      "win_rate": 0.0
     }
   },
   "open_trades": [
     {
       "id": "784b4494",
       "strategy": "strat1"
-    },
-    {
-      "id": "390abf6a",
-      "strategy": "strat6"
     }
   ],
   "last_updated": "2026-06-24"
