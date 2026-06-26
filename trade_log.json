@@ -169,6 +169,23 @@
       "pnl_dollars": -500.0,
       "reasoning": "bias=bearish | FVG=bearish [29403.75\u201329411.00] | VWAP=29405.76 inside FVG | touch=True | rejection=True",
       "be_moved": false
+    },
+    {
+      "id": "45b9af46",
+      "strategy": "bot1",
+      "direction": "short",
+      "entry": 29391.5,
+      "sl": 29416.5,
+      "tp": 29341.5,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-06-26T07:15:52.983009-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "bias=bearish | FVG=bearish [29392.00\u201329416.00] | VWAP=29399.30 inside FVG | touch=True | rejection=True",
+      "be_moved": false
     }
   ]
 }
