@@ -14,10 +14,10 @@
   "strategies": {
     "bot1": {
       "name": "FVG + VWAP Touch (Bot1)",
-      "balance": 49000.0,
-      "pnl": -1000.0,
+      "balance": 48500.0,
+      "pnl": -1500.0,
       "wins": 0,
-      "losses": 2,
+      "losses": 3,
       "breakevens": 0,
       "total_trades": 3,
       "win_rate": 0.0
@@ -104,11 +104,6 @@
       "win_rate": 0.0
     }
   },
-  "open_trades": [
-    {
-      "id": "45b9af46",
-      "strategy": "bot1"
-    }
-  ],
+  "open_trades": [],
   "last_updated": "2026-06-26"
 }

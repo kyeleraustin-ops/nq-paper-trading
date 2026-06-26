@@ -178,12 +178,12 @@
       "sl": 29416.5,
       "tp": 29341.5,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-06-26T07:15:52.983009-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29416.5,
+      "exit_time": "2026-06-26T07:22:56.958932-04:00",
+      "pnl_points": -25.0,
+      "pnl_dollars": -500.0,
       "reasoning": "bias=bearish | FVG=bearish [29392.00\u201329416.00] | VWAP=29399.30 inside FVG | touch=True | rejection=True",
       "be_moved": false
     }
