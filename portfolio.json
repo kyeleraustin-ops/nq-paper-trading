@@ -19,7 +19,7 @@
       "wins": 0,
       "losses": 3,
       "breakevens": 0,
-      "total_trades": 3,
+      "total_trades": 4,
       "win_rate": 0.0
     },
     "my_day_trade": {
@@ -104,6 +104,11 @@
       "win_rate": 0.0
     }
   },
-  "open_trades": [],
-  "last_updated": "2026-06-26"
+  "open_trades": [
+    {
+      "id": "0c681f57",
+      "strategy": "bot1"
+    }
+  ],
+  "last_updated": "2026-08-03"
 }
