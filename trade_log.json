@@ -203,6 +203,23 @@
       "pnl_dollars": -500.0,
       "reasoning": "bias=bullish | FVG=bullish [28404.25\u201328582.00] | VWAP=28574.91 inside FVG | touch=True | rejection=True",
       "be_moved": false
+    },
+    {
+      "id": "dd9759e3",
+      "strategy": "bot1",
+      "direction": "long",
+      "entry": 28460.25,
+      "sl": 28435.25,
+      "tp": 28510.25,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-03T07:52:05.313580-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "bias=bullish | FVG=bullish [28404.25\u201328582.00] | VWAP=28567.69 inside FVG | touch=True | rejection=True",
+      "be_moved": false
     }
   ]
 }
