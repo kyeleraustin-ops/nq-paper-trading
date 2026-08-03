@@ -24,12 +24,12 @@
     },
     "my_day_trade": {
       "name": "Structure + VWAP Reclaim (Claude)",
-      "balance": 50910.0,
-      "pnl": 910.0,
-      "wins": 1,
+      "balance": 51720.0,
+      "pnl": 1720.0,
+      "wins": 2,
       "losses": 0,
       "breakevens": 0,
-      "total_trades": 2,
+      "total_trades": 3,
       "win_rate": 1.0
     },
     "strat1": {
@@ -106,7 +106,7 @@
   },
   "open_trades": [
     {
-      "id": "8ce559c2",
+      "id": "84678b6e",
       "strategy": "my_day_trade"
     }
   ],
