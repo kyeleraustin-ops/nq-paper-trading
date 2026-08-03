@@ -277,17 +277,17 @@
       "strategy": "strat1",
       "direction": "short",
       "entry": 28493.0,
-      "sl": 28503.0,
+      "sl": 28493.0,
       "tp": 28473.0,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_win",
       "entry_time": "2026-08-03T09:55:17.968696-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 28473.0,
+      "exit_time": "2026-08-03T09:56:21.403859-04:00",
+      "pnl_points": 20.0,
+      "pnl_dollars": 400.0,
       "reasoning": "HTF=bearish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
