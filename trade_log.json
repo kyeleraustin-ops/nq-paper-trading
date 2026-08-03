@@ -509,6 +509,23 @@
       "pnl_dollars": null,
       "reasoning": "Daily BOS=bearish | Level=prev_wk_high @ 28763.25 | Daily rejection candle | direction=long",
       "be_moved": false
+    },
+    {
+      "id": "55979871",
+      "strategy": "strat1",
+      "direction": "short",
+      "entry": 28906.5,
+      "sl": 28964.25,
+      "tp": 28791.0,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-03T15:27:03.565539-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bearish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
+      "be_moved": false
     }
   ]
 }
