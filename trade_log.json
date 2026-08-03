@@ -458,6 +458,23 @@
       "pnl_dollars": 190.0,
       "reasoning": "15m structure=bearish | draw=VWAP @ 28488.01 | absorption=True | VWAP=28488.01 | side=above VWAP",
       "be_moved": true
+    },
+    {
+      "id": "bdc90ee8",
+      "strategy": "strat1",
+      "direction": "short",
+      "entry": 28550.0,
+      "sl": 28572.0,
+      "tp": 28506.0,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-03T10:15:27.499049-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bearish | FVG=False | VWAP=True | Fib=0.705 | session=True | confluence=2/3 | rejection=True",
+      "be_moved": false
     }
   ]
 }
