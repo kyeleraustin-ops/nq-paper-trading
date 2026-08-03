@@ -220,6 +220,23 @@
       "pnl_dollars": -500.0,
       "reasoning": "bias=bullish | FVG=bullish [28404.25\u201328582.00] | VWAP=28567.69 inside FVG | touch=True | rejection=True",
       "be_moved": false
+    },
+    {
+      "id": "c5f31cca",
+      "strategy": "my_day_trade",
+      "direction": "short",
+      "entry": 28468.75,
+      "sl": 28491.5,
+      "tp": 28423.25,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-03T09:50:58.539240-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bearish | VWAP=28488.98 | VWAP reclaim | rejection=False",
+      "be_moved": false
     }
   ]
 }
