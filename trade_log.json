@@ -413,34 +413,34 @@
       "strategy": "strat3",
       "direction": "short",
       "entry": 28486.75,
-      "sl": 28491.5,
+      "sl": 28486.75,
       "tp": 28477.25,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_be",
       "entry_time": "2026-08-03T10:01:45.922171-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 28486.75,
+      "exit_time": "2026-08-03T10:02:48.739448-04:00",
+      "pnl_points": 0.0,
+      "pnl_dollars": 0.0,
       "reasoning": "15m structure=bearish | draw=VWAP @ 28487.67 | absorption=True | VWAP=28487.67 | side=below VWAP",
-      "be_moved": false
+      "be_moved": true
     },
     {
       "id": "6cf4aaf5",
       "strategy": "strat5",
       "direction": "short",
       "entry": 28486.75,
-      "sl": 28491.5,
+      "sl": 28486.75,
       "tp": 28477.25,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_be",
       "entry_time": "2026-08-03T10:01:46.385790-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 28486.75,
+      "exit_time": "2026-08-03T10:02:48.739448-04:00",
+      "pnl_points": 0.0,
+      "pnl_dollars": 0.0,
       "reasoning": "15m structure=bearish | DOL=london_low @ 28403.50 | tap=VWAP @ 28487.67 | absorption=True | no FVG required",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
