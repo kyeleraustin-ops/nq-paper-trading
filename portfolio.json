@@ -104,11 +104,6 @@
       "win_rate": 0.0
     }
   },
-  "open_trades": [
-    {
-      "id": "6799e33f",
-      "strategy": "strat1"
-    }
-  ],
+  "open_trades": [],
   "last_updated": "2026-08-03"
 }
