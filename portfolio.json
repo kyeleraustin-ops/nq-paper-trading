@@ -34,13 +34,13 @@
     },
     "strat1": {
       "name": "HTF Flow + Session Levels + Confluence (User S1)",
-      "balance": 49310.0,
-      "pnl": -690.0,
+      "balance": 48635.0,
+      "pnl": -1365.0,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "breakevens": 0,
       "total_trades": 4,
-      "win_rate": 0.5
+      "win_rate": 0.333
     },
     "strat2": {
       "name": "FVG + VWAP Absorption (User S2)",
@@ -65,13 +65,13 @@
     },
     "strat3": {
       "name": "Market Structure + Draw + Absorption (S3)",
-      "balance": 48060.0,
-      "pnl": -1940.0,
+      "balance": 47615.0,
+      "pnl": -2385.0,
       "wins": 1,
-      "losses": 4,
+      "losses": 5,
       "breakevens": 0,
-      "total_trades": 6,
-      "win_rate": 0.2
+      "total_trades": 7,
+      "win_rate": 0.167
     },
     "strat4": {
       "name": "Structure + DOL + VWAP Tap + FVG (S4)",
@@ -85,13 +85,13 @@
     },
     "strat5": {
       "name": "Structure + DOL + VWAP/Band Tap + Absorption (S5)",
-      "balance": 48875.0,
-      "pnl": -1125.0,
+      "balance": 48430.0,
+      "pnl": -1570.0,
       "wins": 1,
-      "losses": 2,
+      "losses": 3,
       "breakevens": 0,
-      "total_trades": 4,
-      "win_rate": 0.333
+      "total_trades": 5,
+      "win_rate": 0.25
     },
     "strat6": {
       "name": "Structure + DOL + VWAP Rebalance + FVG (S6)",
@@ -106,15 +106,11 @@
   },
   "open_trades": [
     {
-      "id": "f279dea3",
-      "strategy": "strat1"
-    },
-    {
-      "id": "afa6a38f",
+      "id": "d5022a9a",
       "strategy": "strat3"
     },
     {
-      "id": "2eccc04c",
+      "id": "6cf4aaf5",
       "strategy": "strat5"
     }
   ],
