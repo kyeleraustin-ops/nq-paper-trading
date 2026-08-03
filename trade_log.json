@@ -271,6 +271,23 @@
       "pnl_dollars": -1070.0,
       "reasoning": "15m structure=bearish | VWAP=28487.09 | VWAP reclaim | rejection=False",
       "be_moved": false
+    },
+    {
+      "id": "02979848",
+      "strategy": "strat1",
+      "direction": "short",
+      "entry": 28493.0,
+      "sl": 28503.0,
+      "tp": 28473.0,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-03T09:55:17.968696-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bearish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
+      "be_moved": false
     }
   ]
 }
