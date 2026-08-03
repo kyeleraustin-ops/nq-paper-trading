@@ -60,7 +60,7 @@
       "losses": 0,
       "breakevens": 0,
       "open_positions": [],
-      "total_trades": 0,
+      "total_trades": 1,
       "win_rate": 0
     },
     "strat3": {
@@ -104,6 +104,11 @@
       "win_rate": 0.0
     }
   },
-  "open_trades": [],
+  "open_trades": [
+    {
+      "id": "fb0568c5",
+      "strategy": "swing"
+    }
+  ],
   "last_updated": "2026-08-03"
 }

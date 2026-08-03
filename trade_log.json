@@ -492,6 +492,23 @@
       "pnl_dollars": 0.0,
       "reasoning": "HTF=bearish | FVG=False | VWAP=True | Fib=0.786 | session=True | confluence=2/3 | rejection=True",
       "be_moved": true
+    },
+    {
+      "id": "fb0568c5",
+      "strategy": "swing",
+      "direction": "long",
+      "entry": 28677.5,
+      "sl": 28199.07,
+      "tp": 29634.36,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-03T10:39:36.395957-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "Daily BOS=bearish | Level=prev_wk_high @ 28763.25 | Daily rejection candle | direction=long",
+      "be_moved": false
     }
   ]
 }
