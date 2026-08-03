@@ -39,7 +39,7 @@
       "wins": 1,
       "losses": 1,
       "breakevens": 0,
-      "total_trades": 3,
+      "total_trades": 4,
       "win_rate": 0.5
     },
     "strat2": {
@@ -65,13 +65,13 @@
     },
     "strat3": {
       "name": "Market Structure + Draw + Absorption (S3)",
-      "balance": 47890.0,
-      "pnl": -2110.0,
-      "wins": 0,
+      "balance": 48060.0,
+      "pnl": -1940.0,
+      "wins": 1,
       "losses": 4,
       "breakevens": 0,
-      "total_trades": 5,
-      "win_rate": 0.0
+      "total_trades": 6,
+      "win_rate": 0.2
     },
     "strat4": {
       "name": "Structure + DOL + VWAP Tap + FVG (S4)",
@@ -85,13 +85,13 @@
     },
     "strat5": {
       "name": "Structure + DOL + VWAP/Band Tap + Absorption (S5)",
-      "balance": 48705.0,
-      "pnl": -1295.0,
-      "wins": 0,
+      "balance": 48875.0,
+      "pnl": -1125.0,
+      "wins": 1,
       "losses": 2,
       "breakevens": 0,
-      "total_trades": 3,
-      "win_rate": 0.0
+      "total_trades": 4,
+      "win_rate": 0.333
     },
     "strat6": {
       "name": "Structure + DOL + VWAP Rebalance + FVG (S6)",
@@ -106,11 +106,15 @@
   },
   "open_trades": [
     {
-      "id": "be1fc98b",
+      "id": "f279dea3",
+      "strategy": "strat1"
+    },
+    {
+      "id": "afa6a38f",
       "strategy": "strat3"
     },
     {
-      "id": "c37a4760",
+      "id": "2eccc04c",
       "strategy": "strat5"
     }
   ],
