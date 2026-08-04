@@ -611,6 +611,23 @@
       "pnl_dollars": null,
       "reasoning": "bias=bullish | FVG=bullish [29056.75\u201329066.00] | VWAP=29063.13 inside FVG | touch=True | rejection=True",
       "be_moved": false
+    },
+    {
+      "id": "c8f13ec9",
+      "strategy": "strat3",
+      "direction": "long",
+      "entry": 29074.25,
+      "sl": 29065.25,
+      "tp": 29092.25,
+      "contracts": 3,
+      "status": "open",
+      "entry_time": "2026-08-04T06:00:28.932638-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | draw=VWAP @ 29063.32 | absorption=True | VWAP=29063.32 | side=above VWAP",
+      "be_moved": false
     }
   ]
 }
