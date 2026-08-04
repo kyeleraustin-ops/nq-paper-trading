@@ -19,7 +19,7 @@
       "wins": 0,
       "losses": 5,
       "breakevens": 0,
-      "total_trades": 5,
+      "total_trades": 6,
       "win_rate": 0.0
     },
     "my_day_trade": {
@@ -112,6 +112,10 @@
     {
       "id": "05d24e5e",
       "strategy": "strat1"
+    },
+    {
+      "id": "d05e87ad",
+      "strategy": "bot1"
     }
   ],
   "last_updated": "2026-08-04"
