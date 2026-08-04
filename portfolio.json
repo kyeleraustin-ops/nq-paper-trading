@@ -65,13 +65,13 @@
     },
     "strat3": {
       "name": "Market Structure + Draw + Absorption (S3)",
-      "balance": 46845.0,
-      "pnl": -3155.0,
-      "wins": 2,
+      "balance": 47745.0,
+      "pnl": -2255.0,
+      "wins": 3,
       "losses": 7,
       "breakevens": 0,
       "total_trades": 11,
-      "win_rate": 0.222
+      "win_rate": 0.3
     },
     "strat4": {
       "name": "Structure + DOL + VWAP Tap + FVG (S4)",
@@ -85,13 +85,13 @@
     },
     "strat5": {
       "name": "Structure + DOL + VWAP/Band Tap + Absorption (S5)",
-      "balance": 48430.0,
-      "pnl": -1570.0,
-      "wins": 1,
+      "balance": 49330.0,
+      "pnl": -670.0,
+      "wins": 2,
       "losses": 3,
       "breakevens": 0,
       "total_trades": 7,
-      "win_rate": 0.25
+      "win_rate": 0.4
     },
     "strat6": {
       "name": "Structure + DOL + VWAP Rebalance + FVG (S6)",
@@ -116,14 +116,6 @@
     {
       "id": "d05e87ad",
       "strategy": "bot1"
-    },
-    {
-      "id": "f277f8f0",
-      "strategy": "strat3"
-    },
-    {
-      "id": "c4f6d83d",
-      "strategy": "strat5"
     }
   ],
   "last_updated": "2026-08-04"
