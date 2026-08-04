@@ -577,6 +577,23 @@
       "pnl_dollars": 0.0,
       "reasoning": "15m structure=bullish | DOL=london_high @ 29131.50 | tap=VWAP @ 29066.54 | absorption=True | no FVG required",
       "be_moved": true
+    },
+    {
+      "id": "05d24e5e",
+      "strategy": "strat1",
+      "direction": "long",
+      "entry": 29023.75,
+      "sl": 28931.75,
+      "tp": 29207.75,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-04T05:21:05.699057-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bullish | FVG=False | VWAP=True | Fib=0.618 | session=True | confluence=2/3 | rejection=True",
+      "be_moved": false
     }
   ]
 }
