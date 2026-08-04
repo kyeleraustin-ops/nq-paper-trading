@@ -498,7 +498,7 @@
       "strategy": "swing",
       "direction": "long",
       "entry": 28677.5,
-      "sl": 28199.07,
+      "sl": 28677.5,
       "tp": 29634.36,
       "contracts": 1,
       "status": "open",
@@ -508,7 +508,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "Daily BOS=bearish | Level=prev_wk_high @ 28763.25 | Daily rejection candle | direction=long",
-      "be_moved": false
+      "be_moved": true
     },
     {
       "id": "55979871",
@@ -583,17 +583,17 @@
       "strategy": "strat1",
       "direction": "long",
       "entry": 29023.75,
-      "sl": 28931.75,
+      "sl": 29023.75,
       "tp": 29207.75,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_win",
       "entry_time": "2026-08-04T05:21:05.699057-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29207.75,
+      "exit_time": "2026-08-04T07:54:42.690454-04:00",
+      "pnl_points": 184.0,
+      "pnl_dollars": 3680.0,
       "reasoning": "HTF=bullish | FVG=False | VWAP=True | Fib=0.618 | session=True | confluence=2/3 | rejection=True",
-      "be_moved": false
+      "be_moved": true
     },
     {
       "id": "d05e87ad",
