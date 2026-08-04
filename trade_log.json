@@ -560,6 +560,23 @@
       "pnl_dollars": null,
       "reasoning": "15m structure=bullish | draw=VWAP @ 29066.69 | absorption=True | VWAP=29066.69 | side=below VWAP",
       "be_moved": false
+    },
+    {
+      "id": "6a979b9d",
+      "strategy": "strat5",
+      "direction": "long",
+      "entry": 29069.75,
+      "sl": 29065.25,
+      "tp": 29078.75,
+      "contracts": 6,
+      "status": "open",
+      "entry_time": "2026-08-04T05:05:26.827182-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | DOL=london_high @ 29131.50 | tap=VWAP @ 29066.54 | absorption=True | no FVG required",
+      "be_moved": false
     }
   ]
 }
