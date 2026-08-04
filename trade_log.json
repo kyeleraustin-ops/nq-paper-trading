@@ -518,12 +518,12 @@
       "sl": 28964.25,
       "tp": 28791.0,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-08-03T15:27:03.565539-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 28964.25,
+      "exit_time": "2026-08-04T01:46:40.647353-04:00",
+      "pnl_points": -57.75,
+      "pnl_dollars": -1155.0,
       "reasoning": "HTF=bearish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
       "be_moved": false
     }
