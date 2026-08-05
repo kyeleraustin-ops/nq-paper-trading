@@ -38,8 +38,8 @@
       "pnl": 1055.0,
       "wins": 3,
       "losses": 5,
-      "breakevens": 2,
-      "total_trades": 11,
+      "breakevens": 3,
+      "total_trades": 12,
       "win_rate": 0.375
     },
     "strat2": {
@@ -106,12 +106,12 @@
   },
   "open_trades": [
     {
-      "id": "6e6e34bd",
-      "strategy": "strat1"
-    },
-    {
       "id": "381fe6ff",
       "strategy": "strat2"
+    },
+    {
+      "id": "c279a8fd",
+      "strategy": "strat1"
     }
   ],
   "last_updated": "2026-08-05"
