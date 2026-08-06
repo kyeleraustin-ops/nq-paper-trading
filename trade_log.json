@@ -855,7 +855,7 @@
       "strategy": "strat5",
       "direction": "short",
       "entry": 29581.75,
-      "sl": 29600.0,
+      "sl": 29581.75,
       "tp": 29545.25,
       "contracts": 1,
       "status": "open",
@@ -865,7 +865,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "15m structure=bearish | DOL=prev_day_low @ 29530.75 | tap=+1SD @ 29581.88 | absorption=True | no FVG required",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
