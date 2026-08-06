@@ -883,6 +883,40 @@
       "pnl_dollars": 0.0,
       "reasoning": "15m structure=bearish | DOL=asia_low @ 29454.25 | VWAP rebalance (extended 2 bars past \u00b11SD) | FVG=bearish [29533.75\u201329539.75] | VWAP=29566.81",
       "be_moved": true
+    },
+    {
+      "id": "d960c3ef",
+      "strategy": "strat3",
+      "direction": "short",
+      "entry": 29538.25,
+      "sl": 29548.75,
+      "tp": 29517.25,
+      "contracts": 2,
+      "status": "open",
+      "entry_time": "2026-08-06T03:20:14.821152-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bearish | draw=VWAP @ 29542.92 | absorption=True | VWAP=29542.92 | side=below VWAP",
+      "be_moved": false
+    },
+    {
+      "id": "dd95558c",
+      "strategy": "strat5",
+      "direction": "short",
+      "entry": 29538.25,
+      "sl": 29548.75,
+      "tp": 29517.25,
+      "contracts": 2,
+      "status": "open",
+      "entry_time": "2026-08-06T03:20:15.097900-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bearish | DOL=london_low @ 29485.00 | tap=VWAP @ 29542.92 | absorption=True | no FVG required",
+      "be_moved": false
     }
   ]
 }

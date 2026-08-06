@@ -12,15 +12,15 @@
     "tick_value": 5
   },
   "strategies": {
-    "bot1": {
-      "name": "FVG + VWAP Touch (Bot1)",
-      "balance": 47500.0,
-      "pnl": -2500.0,
+    "smt_dol": {
+      "name": "HTF SMT + DOL Priority",
+      "balance": 50000,
+      "pnl": 0,
       "wins": 0,
-      "losses": 5,
-      "breakevens": 1,
-      "total_trades": 6,
-      "win_rate": 0.0
+      "losses": 0,
+      "breakevens": 0,
+      "total_trades": 0,
+      "win_rate": 0
     },
     "my_day_trade": {
       "name": "Structure + VWAP Reclaim (Claude)",
@@ -70,7 +70,7 @@
       "wins": 4,
       "losses": 9,
       "breakevens": 3,
-      "total_trades": 16,
+      "total_trades": 17,
       "win_rate": 0.308
     },
     "strat4": {
@@ -90,7 +90,7 @@
       "wins": 2,
       "losses": 4,
       "breakevens": 3,
-      "total_trades": 9,
+      "total_trades": 10,
       "win_rate": 0.333
     },
     "strat6": {
@@ -108,6 +108,14 @@
     {
       "id": "f42f7194",
       "strategy": "strat4"
+    },
+    {
+      "id": "d960c3ef",
+      "strategy": "strat3"
+    },
+    {
+      "id": "dd95558c",
+      "strategy": "strat5"
     }
   ],
   "last_updated": "2026-08-06"
