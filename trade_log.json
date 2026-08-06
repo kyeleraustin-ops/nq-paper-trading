@@ -838,7 +838,7 @@
       "strategy": "strat3",
       "direction": "short",
       "entry": 29582.75,
-      "sl": 29600.0,
+      "sl": 29582.75,
       "tp": 29548.25,
       "contracts": 1,
       "status": "open",
@@ -848,7 +848,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "15m structure=bearish | draw=VWAP @ 29570.34 | absorption=True | VWAP=29570.34 | side=above VWAP",
-      "be_moved": false
+      "be_moved": true
     },
     {
       "id": "13cdbf6a",
