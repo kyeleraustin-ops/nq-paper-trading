@@ -926,12 +926,12 @@
       "sl": 29548.75,
       "tp": 29536.75,
       "contracts": 6,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-08-06T03:22:22.355132-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29548.75,
+      "exit_time": "2026-08-06T03:23:26.247482-04:00",
+      "pnl_points": -4.0,
+      "pnl_dollars": -480.0,
       "reasoning": "15m structure=bearish | draw=VWAP @ 29542.94 | absorption=True | VWAP=29542.94 | side=above VWAP",
       "be_moved": false
     }

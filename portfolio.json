@@ -65,13 +65,13 @@
     },
     "strat3": {
       "name": "Market Structure + Draw + Absorption (S3)",
-      "balance": 47165.0,
-      "pnl": -2835.0,
+      "balance": 46685.0,
+      "pnl": -3315.0,
       "wins": 4,
-      "losses": 10,
+      "losses": 11,
       "breakevens": 3,
       "total_trades": 18,
-      "win_rate": 0.286
+      "win_rate": 0.267
     },
     "strat4": {
       "name": "Structure + DOL + VWAP Tap + FVG (S4)",
@@ -108,10 +108,6 @@
     {
       "id": "f42f7194",
       "strategy": "strat4"
-    },
-    {
-      "id": "ac791311",
-      "strategy": "strat3"
     }
   ],
   "last_updated": "2026-08-06"
