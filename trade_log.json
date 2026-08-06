@@ -858,12 +858,12 @@
       "sl": 29581.75,
       "tp": 29545.25,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_be",
       "entry_time": "2026-08-06T01:16:25.451568-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29581.75,
+      "exit_time": "2026-08-06T01:54:53.342374-04:00",
+      "pnl_points": 0.0,
+      "pnl_dollars": 0.0,
       "reasoning": "15m structure=bearish | DOL=prev_day_low @ 29530.75 | tap=+1SD @ 29581.88 | absorption=True | no FVG required",
       "be_moved": true
     }
