@@ -875,12 +875,12 @@
       "sl": 29533.75,
       "tp": 29455.75,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_be",
       "entry_time": "2026-08-06T02:23:03.180556-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29533.75,
+      "exit_time": "2026-08-06T02:36:34.693826-04:00",
+      "pnl_points": 0.0,
+      "pnl_dollars": 0.0,
       "reasoning": "15m structure=bearish | DOL=asia_low @ 29454.25 | VWAP rebalance (extended 2 bars past \u00b11SD) | FVG=bearish [29533.75\u201329539.75] | VWAP=29566.81",
       "be_moved": true
     }
