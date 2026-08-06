@@ -29,7 +29,7 @@
       "wins": 2,
       "losses": 2,
       "breakevens": 0,
-      "total_trades": 4,
+      "total_trades": 5,
       "win_rate": 0.5
     },
     "strat1": {
@@ -108,6 +108,10 @@
     {
       "id": "f42f7194",
       "strategy": "strat4"
+    },
+    {
+      "id": "2cfe760f",
+      "strategy": "my_day_trade"
     }
   ],
   "last_updated": "2026-08-06"
