@@ -1011,12 +1011,12 @@
       "sl": 29675.25,
       "tp": 29776.25,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_be",
       "entry_time": "2026-08-07T10:53:34.279302-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29675.25,
+      "exit_time": "2026-08-07T11:04:07.684495-04:00",
+      "pnl_points": 0.0,
+      "pnl_dollars": 0.0,
       "reasoning": "15m structure=bullish | DOL=ny_high @ 29820.00 | VWAP rebalance (extended 2 bars past \u00b11SD) | FVG=bullish [29649.00\u201329687.00] | VWAP=29698.93",
       "be_moved": true
     }
