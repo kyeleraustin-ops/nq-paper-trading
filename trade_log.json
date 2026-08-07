@@ -909,12 +909,12 @@
       "sl": 29624.75,
       "tp": 29765.75,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-08-07T10:13:00.202567-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29624.75,
+      "exit_time": "2026-08-07T10:14:04.386788-04:00",
+      "pnl_points": -47.0,
+      "pnl_dollars": -940.0,
       "reasoning": "15m structure=bullish | VWAP=29709.73 | near VWAP | rejection=True",
       "be_moved": false
     }
