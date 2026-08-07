@@ -985,6 +985,23 @@
       "pnl_dollars": 0.0,
       "reasoning": "15m structure=bearish | VWAP=29498.27 | near VWAP | rejection=True",
       "be_moved": true
+    },
+    {
+      "id": "2172ee60",
+      "strategy": "strat3",
+      "direction": "long",
+      "entry": 29594.5,
+      "sl": 29563.5,
+      "tp": 29656.5,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-06T20:05:44.700719-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | draw=+1SD @ 29594.11 | absorption=True | VWAP=29517.96 | side=above VWAP",
+      "be_moved": false
     }
   ]
 }
