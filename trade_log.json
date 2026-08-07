@@ -781,6 +781,23 @@
       "pnl_dollars": null,
       "reasoning": "15m structure=bullish | VWAP=29676.40 | near VWAP | rejection=True",
       "be_moved": false
+    },
+    {
+      "id": "4f6272b1",
+      "strategy": "strat1",
+      "direction": "long",
+      "entry": 29717.75,
+      "sl": 29702.0,
+      "tp": 29749.25,
+      "contracts": 2,
+      "status": "open",
+      "entry_time": "2026-08-07T09:40:51.364607-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bullish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
+      "be_moved": false
     }
   ]
 }
