@@ -889,7 +889,7 @@
       "strategy": "strat3",
       "direction": "short",
       "entry": 29789.0,
-      "sl": 29826.25,
+      "sl": 29789.0,
       "tp": 29714.5,
       "contracts": 1,
       "status": "open",
@@ -899,7 +899,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "[REVERSED] 15m structure=bullish | draw=+1SD @ 29801.52 | absorption=True | VWAP=29710.86 | side=above VWAP",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
