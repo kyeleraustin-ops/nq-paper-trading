@@ -38,8 +38,8 @@
       "pnl": -820.0,
       "wins": 3,
       "losses": 6,
-      "breakevens": 3,
-      "total_trades": 13,
+      "breakevens": 4,
+      "total_trades": 14,
       "win_rate": 0.333
     },
     "strat2": {
@@ -110,7 +110,7 @@
       "strategy": "my_day_trade"
     },
     {
-      "id": "4f6272b1",
+      "id": "48192da3",
       "strategy": "strat1"
     }
   ],
