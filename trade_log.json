@@ -770,7 +770,7 @@
       "strategy": "my_day_trade",
       "direction": "long",
       "entry": 29693.75,
-      "sl": 29624.75,
+      "sl": 29693.75,
       "tp": 29831.75,
       "contracts": 1,
       "status": "open",
@@ -780,7 +780,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "15m structure=bullish | VWAP=29676.40 | near VWAP | rejection=True",
-      "be_moved": false
+      "be_moved": true
     },
     {
       "id": "4f6272b1",
@@ -804,7 +804,7 @@
       "strategy": "strat1",
       "direction": "long",
       "entry": 29737.75,
-      "sl": 29702.0,
+      "sl": 29737.75,
       "tp": 29809.25,
       "contracts": 1,
       "status": "open",
@@ -814,7 +814,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "HTF=bullish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
