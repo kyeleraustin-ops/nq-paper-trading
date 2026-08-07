@@ -69,8 +69,8 @@
       "pnl": 410.0,
       "wins": 3,
       "losses": 6,
-      "breakevens": 0,
-      "total_trades": 10,
+      "breakevens": 1,
+      "total_trades": 11,
       "win_rate": 0.333
     },
     "strat4": {
@@ -106,7 +106,7 @@
   },
   "open_trades": [
     {
-      "id": "50642e1b",
+      "id": "a5b37840",
       "strategy": "strat3"
     }
   ],
