@@ -849,6 +849,23 @@
       "pnl_dollars": 0.0,
       "reasoning": "HTF=bullish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
       "be_moved": true
+    },
+    {
+      "id": "8cc20b86",
+      "strategy": "strat3",
+      "direction": "short",
+      "entry": 29766.0,
+      "sl": 29779.25,
+      "tp": 29739.5,
+      "contracts": 2,
+      "status": "open",
+      "entry_time": "2026-08-07T10:00:09.803564-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "[REVERSED] 15m structure=bullish | draw=+1SD @ 29800.35 | absorption=True | VWAP=29709.32 | side=above VWAP",
+      "be_moved": false
     }
   ]
 }
