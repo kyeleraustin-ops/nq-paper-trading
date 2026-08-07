@@ -39,7 +39,7 @@
       "wins": 8,
       "losses": 11,
       "breakevens": 7,
-      "total_trades": 26,
+      "total_trades": 27,
       "win_rate": 0.421
     },
     "strat2": {
@@ -108,6 +108,10 @@
     {
       "id": "a5b37840",
       "strategy": "strat3"
+    },
+    {
+      "id": "11d6a11c",
+      "strategy": "strat1"
     }
   ],
   "last_updated": "2026-08-07"
