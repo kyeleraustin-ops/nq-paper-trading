@@ -838,17 +838,17 @@
       "strategy": "strat1",
       "direction": "long",
       "entry": 29735.5,
-      "sl": 29702.0,
+      "sl": 29735.5,
       "tp": 29802.5,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_be",
       "entry_time": "2026-08-07T09:51:38.088694-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29735.5,
+      "exit_time": "2026-08-07T09:53:45.276569-04:00",
+      "pnl_points": 0.0,
+      "pnl_dollars": 0.0,
       "reasoning": "HTF=bullish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
