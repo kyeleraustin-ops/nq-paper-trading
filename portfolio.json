@@ -100,10 +100,15 @@
       "wins": 0,
       "losses": 1,
       "breakevens": 1,
-      "total_trades": 2,
+      "total_trades": 3,
       "win_rate": 0.0
     }
   },
-  "open_trades": [],
+  "open_trades": [
+    {
+      "id": "55451a29",
+      "strategy": "strat6"
+    }
+  ],
   "last_updated": "2026-08-07"
 }
