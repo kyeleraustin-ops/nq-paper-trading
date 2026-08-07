@@ -730,6 +730,23 @@
       "pnl_dollars": -335.0,
       "reasoning": "[REVERSED] 15m structure=bullish | draw=VWAP @ 29488.96 | absorption=True | VWAP=29488.96 | side=above VWAP",
       "be_moved": false
+    },
+    {
+      "id": "e1825552",
+      "strategy": "strat3",
+      "direction": "short",
+      "entry": 29640.75,
+      "sl": 29647.25,
+      "tp": 29627.75,
+      "contracts": 4,
+      "status": "open",
+      "entry_time": "2026-08-07T07:26:04.984037-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "[REVERSED] 15m structure=bullish | draw=+1SD @ 29623.76 | absorption=True | VWAP=29576.80 | side=above VWAP",
+      "be_moved": false
     }
   ]
 }
