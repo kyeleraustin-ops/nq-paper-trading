@@ -1155,6 +1155,23 @@
       "pnl_dollars": -1225.0,
       "reasoning": "HTF=bullish | VWAP reclaim | FVG=bullish | absorption=False | rejection=True",
       "be_moved": false
+    },
+    {
+      "id": "76766f32",
+      "strategy": "strat1",
+      "direction": "long",
+      "entry": 29885.0,
+      "sl": 29863.0,
+      "tp": 29929.0,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-10T07:16:25.119766-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bullish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
+      "be_moved": false
     }
   ]
 }
