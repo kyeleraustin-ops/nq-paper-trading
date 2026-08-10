@@ -1351,13 +1351,30 @@
       "sl": 29882.25,
       "tp": 29856.0,
       "contracts": 3,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-08-09T20:20:23.024032-04:00",
+      "exit_price": 29882.25,
+      "exit_time": "2026-08-09T20:21:28.852761-04:00",
+      "pnl_points": -8.75,
+      "pnl_dollars": -525.0,
+      "reasoning": "[REVERSED] 15m structure=bullish | draw=+1SD @ 29858.70 | absorption=True | VWAP=29842.57 | side=above VWAP",
+      "be_moved": false
+    },
+    {
+      "id": "9e92520e",
+      "strategy": "strat3",
+      "direction": "short",
+      "entry": 29894.0,
+      "sl": 29953.79,
+      "tp": 29774.42,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-09T20:21:31.744041-04:00",
       "exit_price": null,
       "exit_time": null,
       "pnl_points": null,
       "pnl_dollars": null,
-      "reasoning": "[REVERSED] 15m structure=bullish | draw=+1SD @ 29858.70 | absorption=True | VWAP=29842.57 | side=above VWAP",
+      "reasoning": "[REVERSED] 15m structure=bullish | draw=+1SD @ 29862.53 | absorption=True | VWAP=29844.41 | side=above VWAP",
       "be_moved": false
     }
   ]
