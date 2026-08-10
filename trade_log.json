@@ -1402,13 +1402,30 @@
       "sl": 29796.25,
       "tp": 29839.0,
       "contracts": 2,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-08-10T09:36:00.017972-04:00",
+      "exit_price": 29796.25,
+      "exit_time": "2026-08-10T09:37:05.392144-04:00",
+      "pnl_points": -14.25,
+      "pnl_dollars": -570.0,
+      "reasoning": "15m structure=bullish | VWAP=29889.26 | near VWAP | rejection=True",
+      "be_moved": false
+    },
+    {
+      "id": "23e99198",
+      "strategy": "my_day_trade",
+      "direction": "long",
+      "entry": 29807.5,
+      "sl": 29796.25,
+      "tp": 29830.0,
+      "contracts": 2,
+      "status": "open",
+      "entry_time": "2026-08-10T09:37:06.926950-04:00",
       "exit_price": null,
       "exit_time": null,
       "pnl_points": null,
       "pnl_dollars": null,
-      "reasoning": "15m structure=bullish | VWAP=29889.26 | near VWAP | rejection=True",
+      "reasoning": "15m structure=bullish | VWAP=29887.95 | near VWAP | rejection=True",
       "be_moved": false
     }
   ]
