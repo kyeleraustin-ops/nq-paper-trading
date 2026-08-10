@@ -65,13 +65,13 @@
     },
     "strat3": {
       "name": "Market Structure + Draw + Absorption (S3, reversed)",
-      "balance": 49120.0,
-      "pnl": -880.0,
+      "balance": 48720.0,
+      "pnl": -1280.0,
       "wins": 3,
-      "losses": 9,
+      "losses": 10,
       "breakevens": 1,
-      "total_trades": 14,
-      "win_rate": 0.25
+      "total_trades": 15,
+      "win_rate": 0.231
     },
     "strat4": {
       "name": "Structure + DOL + VWAP Tap + FVG (S4)",
@@ -106,7 +106,7 @@
   },
   "open_trades": [
     {
-      "id": "c51b313a",
+      "id": "19710e07",
       "strategy": "strat3"
     }
   ],
