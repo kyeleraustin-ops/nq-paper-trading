@@ -1181,12 +1181,12 @@
       "sl": 29876.75,
       "tp": 29904.25,
       "contracts": 2,
-      "status": "open",
+      "status": "closed_be",
       "entry_time": "2026-08-10T07:24:55.872786-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29876.75,
+      "exit_time": "2026-08-10T07:33:23.814289-04:00",
+      "pnl_points": 0.0,
+      "pnl_dollars": 0.0,
       "reasoning": "HTF=bullish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
       "be_moved": true
     }
