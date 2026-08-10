@@ -1348,17 +1348,17 @@
       "strategy": "strat2",
       "direction": "long",
       "entry": 29801.0,
-      "sl": 29797.75,
+      "sl": 29801.0,
       "tp": 29807.5,
       "contracts": 8,
-      "status": "open",
+      "status": "closed_be",
       "entry_time": "2026-08-10T08:51:53.900927-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29801.0,
+      "exit_time": "2026-08-10T08:52:59.135486-04:00",
+      "pnl_points": 0.0,
+      "pnl_dollars": 0.0,
       "reasoning": "HTF=bullish | VWAP reclaim | FVG=bullish | absorption=True | rejection=False",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
