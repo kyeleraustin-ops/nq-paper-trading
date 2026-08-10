@@ -34,13 +34,13 @@
     },
     "strat1": {
       "name": "HTF Flow + Session Levels + Confluence (User S1)",
-      "balance": 53505.0,
-      "pnl": 3505.0,
-      "wins": 10,
+      "balance": 54625.0,
+      "pnl": 4625.0,
+      "wins": 11,
       "losses": 12,
       "breakevens": 7,
       "total_trades": 30,
-      "win_rate": 0.455
+      "win_rate": 0.478
     },
     "strat2": {
       "name": "FVG + VWAP Absorption (User S2)",
@@ -65,13 +65,13 @@
     },
     "strat3": {
       "name": "Market Structure + Draw + Absorption (S3, reversed)",
-      "balance": 49640.0,
-      "pnl": -360.0,
+      "balance": 49120.0,
+      "pnl": -880.0,
       "wins": 3,
-      "losses": 8,
+      "losses": 9,
       "breakevens": 1,
-      "total_trades": 13,
-      "win_rate": 0.273
+      "total_trades": 14,
+      "win_rate": 0.25
     },
     "strat4": {
       "name": "Structure + DOL + VWAP Tap + FVG (S4)",
@@ -106,11 +106,7 @@
   },
   "open_trades": [
     {
-      "id": "ff60b54e",
-      "strategy": "strat1"
-    },
-    {
-      "id": "b348fbda",
+      "id": "c51b313a",
       "strategy": "strat3"
     }
   ],
