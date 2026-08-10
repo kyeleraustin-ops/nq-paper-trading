@@ -1478,6 +1478,23 @@
       "pnl_dollars": null,
       "reasoning": "HTF=bullish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
       "be_moved": false
+    },
+    {
+      "id": "d282a1a8",
+      "strategy": "strat4",
+      "direction": "short",
+      "entry": 29825.25,
+      "sl": 29841.75,
+      "tp": 29792.25,
+      "contracts": 2,
+      "status": "open",
+      "entry_time": "2026-08-10T12:02:42.129336-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bearish | DOL=asia_low @ 29788.50 | VWAP tap @ 29826.77 | FVG=bearish [29822.50\u201329846.75]",
+      "be_moved": false
     }
   ]
 }
