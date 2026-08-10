@@ -1246,7 +1246,7 @@
       "strategy": "strat1",
       "direction": "long",
       "entry": 29825.75,
-      "sl": 29797.75,
+      "sl": 29825.75,
       "tp": 29881.75,
       "contracts": 1,
       "status": "open",
@@ -1256,7 +1256,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "HTF=bullish | FVG=False | VWAP=True | Fib=0.5 | session=False | confluence=2/3 | rejection=True",
-      "be_moved": false
+      "be_moved": true
     },
     {
       "id": "c189b103",
@@ -1297,16 +1297,33 @@
       "strategy": "strat5",
       "direction": "long",
       "entry": 29842.0,
-      "sl": 29834.75,
+      "sl": 29842.0,
       "tp": 29856.5,
       "contracts": 3,
-      "status": "open",
+      "status": "closed_win",
       "entry_time": "2026-08-09T20:15:56.325303-04:00",
+      "exit_price": 29856.5,
+      "exit_time": "2026-08-09T20:17:01.082377-04:00",
+      "pnl_points": 14.5,
+      "pnl_dollars": 870.0,
+      "reasoning": "15m structure=bullish | DOL=prev_day_high @ 29867.75 | tap=-1SD @ 29824.98 | absorption=True | no FVG required",
+      "be_moved": true
+    },
+    {
+      "id": "b348fbda",
+      "strategy": "strat3",
+      "direction": "short",
+      "entry": 29857.0,
+      "sl": 29860.25,
+      "tp": 29850.5,
+      "contracts": 8,
+      "status": "open",
+      "entry_time": "2026-08-09T20:17:03.028871-04:00",
       "exit_price": null,
       "exit_time": null,
       "pnl_points": null,
       "pnl_dollars": null,
-      "reasoning": "15m structure=bullish | DOL=prev_day_high @ 29867.75 | tap=-1SD @ 29824.98 | absorption=True | no FVG required",
+      "reasoning": "[REVERSED] 15m structure=bullish | draw=VWAP @ 29841.07 | absorption=True | VWAP=29841.07 | side=above VWAP",
       "be_moved": false
     }
   ]
