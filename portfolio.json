@@ -38,7 +38,7 @@
       "pnl": 1915.0,
       "wins": 13,
       "losses": 19,
-      "breakevens": 10,
+      "breakevens": 11,
       "total_trades": 43,
       "win_rate": 0.406
     },
@@ -94,11 +94,6 @@
       "win_rate": 0.5
     }
   },
-  "open_trades": [
-    {
-      "id": "b73bb049",
-      "strategy": "strat1"
-    }
-  ],
+  "open_trades": [],
   "last_updated": "2026-08-10"
 }
