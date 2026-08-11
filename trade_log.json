@@ -1495,6 +1495,23 @@
       "pnl_dollars": -660.0,
       "reasoning": "15m structure=bearish | DOL=asia_low @ 29788.50 | VWAP tap @ 29826.77 | FVG=bearish [29822.50\u201329846.75]",
       "be_moved": false
+    },
+    {
+      "id": "2581c771",
+      "strategy": "my_day_trade",
+      "direction": "long",
+      "entry": 29826.75,
+      "sl": 29819.0,
+      "tp": 29842.25,
+      "contracts": 3,
+      "status": "open",
+      "entry_time": "2026-08-11T09:36:53.806173-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | VWAP=29805.41 | near VWAP | rejection=True",
+      "be_moved": false
     }
   ]
 }
