@@ -1586,17 +1586,17 @@
       "strategy": "strat6",
       "direction": "long",
       "entry": 29748.0,
-      "sl": 29744.25,
+      "sl": 29748.0,
       "tp": 29755.5,
       "contracts": 7,
-      "status": "open",
+      "status": "closed_win",
       "entry_time": "2026-08-11T10:34:53.509738-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29755.5,
+      "exit_time": "2026-08-11T10:35:57.801362-04:00",
+      "pnl_points": 7.5,
+      "pnl_dollars": 1050.0,
       "reasoning": "15m structure=bullish | DOL=ny_high @ 29842.50 | VWAP rebalance (extended 2 bars past \u00b11SD) | FVG=bullish [29735.00\u201329752.00] | VWAP=29756.77",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
