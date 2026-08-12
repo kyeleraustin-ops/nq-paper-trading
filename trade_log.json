@@ -1597,6 +1597,23 @@
       "pnl_dollars": 1050.0,
       "reasoning": "15m structure=bullish | DOL=ny_high @ 29842.50 | VWAP rebalance (extended 2 bars past \u00b11SD) | FVG=bullish [29735.00\u201329752.00] | VWAP=29756.77",
       "be_moved": true
+    },
+    {
+      "id": "86b28adc",
+      "strategy": "strat1",
+      "direction": "long",
+      "entry": 29892.0,
+      "sl": 29886.25,
+      "tp": 29903.5,
+      "contracts": 4,
+      "status": "open",
+      "entry_time": "2026-08-12T10:41:45.038893-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bullish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
+      "be_moved": false
     }
   ]
 }
