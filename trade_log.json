@@ -1739,7 +1739,7 @@
       "strategy": "strat5",
       "direction": "long",
       "entry": 29876.0,
-      "sl": 29867.25,
+      "sl": 29876.0,
       "tp": 29893.5,
       "contracts": 3,
       "status": "open",
@@ -1749,7 +1749,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "15m structure=bullish | DOL=ny_high @ 30001.75 | tap=VWAP @ 29876.20 | absorption=True | no FVG required",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
