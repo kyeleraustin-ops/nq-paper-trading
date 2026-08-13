@@ -80,7 +80,7 @@
       "wins": 4,
       "losses": 6,
       "breakevens": 5,
-      "total_trades": 15,
+      "total_trades": 16,
       "win_rate": 0.4
     },
     "strat6": {
@@ -98,6 +98,10 @@
     {
       "id": "e67c6396",
       "strategy": "strat6"
+    },
+    {
+      "id": "dd799362",
+      "strategy": "strat5"
     }
   ],
   "last_updated": "2026-08-13"
