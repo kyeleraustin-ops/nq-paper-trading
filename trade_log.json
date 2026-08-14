@@ -1827,12 +1827,12 @@
       "sl": 30137.5,
       "tp": 30151.0,
       "contracts": 6,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-08-14T11:08:11.994646-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 30137.5,
+      "exit_time": "2026-08-14T11:09:17.899488-04:00",
+      "pnl_points": -4.5,
+      "pnl_dollars": -540.0,
       "reasoning": "15m structure=bullish | VWAP=30211.02 | near VWAP | rejection=True",
       "be_moved": false
     }
