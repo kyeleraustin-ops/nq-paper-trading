@@ -1818,6 +1818,23 @@
       "pnl_dollars": null,
       "reasoning": "HTF=bullish | VWAP reclaim | FVG=bullish | absorption=False | rejection=True",
       "be_moved": false
+    },
+    {
+      "id": "3991270e",
+      "strategy": "my_day_trade",
+      "direction": "long",
+      "entry": 30142.0,
+      "sl": 30137.5,
+      "tp": 30151.0,
+      "contracts": 6,
+      "status": "open",
+      "entry_time": "2026-08-14T11:08:11.994646-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | VWAP=30211.02 | near VWAP | rejection=True",
+      "be_moved": false
     }
   ]
 }
