@@ -1852,6 +1852,23 @@
       "pnl_dollars": -350.0,
       "reasoning": "15m structure=bullish | VWAP=30207.66 | near VWAP | rejection=True",
       "be_moved": false
+    },
+    {
+      "id": "93ed4264",
+      "strategy": "swing",
+      "direction": "short",
+      "entry": 30241.25,
+      "sl": 30837.99,
+      "tp": 29047.77,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-17T08:38:31.529136-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "Daily BOS=bullish | Level=prev_wk_high @ 30283.00 | Daily rejection candle | direction=short",
+      "be_moved": false
     }
   ]
 }
