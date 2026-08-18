@@ -24,13 +24,13 @@
     },
     "my_day_trade": {
       "name": "Structure + VWAP Reclaim (Claude)",
-      "balance": 46690.0,
-      "pnl": -3310.0,
-      "wins": 4,
+      "balance": 47770.0,
+      "pnl": -2230.0,
+      "wins": 5,
       "losses": 10,
       "breakevens": 5,
       "total_trades": 20,
-      "win_rate": 0.286
+      "win_rate": 0.333
     },
     "strat1": {
       "name": "HTF Flow + Session Levels + Confluence (User S1)",
@@ -75,13 +75,13 @@
     },
     "strat5": {
       "name": "Structure + DOL + VWAP/Band Tap + Absorption (S5)",
-      "balance": 49870.0,
-      "pnl": -130.0,
-      "wins": 4,
+      "balance": 50950.0,
+      "pnl": 950.0,
+      "wins": 5,
       "losses": 7,
       "breakevens": 5,
-      "total_trades": 17,
-      "win_rate": 0.364
+      "total_trades": 18,
+      "win_rate": 0.417
     },
     "strat6": {
       "name": "Structure + DOL + VWAP Rebalance + FVG (S6)",
@@ -104,11 +104,7 @@
       "strategy": "strat1"
     },
     {
-      "id": "15ae40af",
-      "strategy": "my_day_trade"
-    },
-    {
-      "id": "0faf62ea",
+      "id": "99542c83",
       "strategy": "strat5"
     }
   ],
