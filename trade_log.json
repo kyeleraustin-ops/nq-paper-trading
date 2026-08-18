@@ -1937,6 +1937,23 @@
       "pnl_dollars": 1050.0,
       "reasoning": "HTF=bearish | VWAP reclaim | FVG=bearish | absorption=False | rejection=True",
       "be_moved": true
+    },
+    {
+      "id": "cd29dcf0",
+      "strategy": "strat1",
+      "direction": "short",
+      "entry": 29867.5,
+      "sl": 29875.75,
+      "tp": 29851.0,
+      "contracts": 3,
+      "status": "open",
+      "entry_time": "2026-08-18T02:57:11.316319-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bearish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
+      "be_moved": false
     }
   ]
 }
