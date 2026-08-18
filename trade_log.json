@@ -1909,7 +1909,7 @@
       "strategy": "strat1",
       "direction": "short",
       "entry": 29920.25,
-      "sl": 29924.0,
+      "sl": 29920.25,
       "tp": 29912.75,
       "contracts": 7,
       "status": "open",
@@ -1919,14 +1919,14 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "HTF=bearish | FVG=True | VWAP=True | Fib=None | session=True | confluence=2/3 | rejection=True",
-      "be_moved": false
+      "be_moved": true
     },
     {
       "id": "3caf42ce",
       "strategy": "strat2",
       "direction": "short",
       "entry": 29920.25,
-      "sl": 29924.0,
+      "sl": 29920.25,
       "tp": 29912.75,
       "contracts": 7,
       "status": "open",
@@ -1936,7 +1936,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "HTF=bearish | VWAP reclaim | FVG=bearish | absorption=False | rejection=True",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
