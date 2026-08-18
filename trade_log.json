@@ -1980,14 +1980,31 @@
       "sl": 29886.0,
       "tp": 29868.0,
       "contracts": 3,
-      "status": "open",
+      "status": "closed_win",
       "entry_time": "2026-08-18T03:17:47.093624-04:00",
+      "exit_price": 29868.0,
+      "exit_time": "2026-08-18T03:21:05.529538-04:00",
+      "pnl_points": 18.0,
+      "pnl_dollars": 1080.0,
+      "reasoning": "HTF=bearish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
+      "be_moved": true
+    },
+    {
+      "id": "6a313aa5",
+      "strategy": "strat1",
+      "direction": "short",
+      "entry": 29869.5,
+      "sl": 29875.75,
+      "tp": 29857.0,
+      "contracts": 4,
+      "status": "open",
+      "entry_time": "2026-08-18T03:21:08.808039-04:00",
       "exit_price": null,
       "exit_time": null,
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "HTF=bearish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
-      "be_moved": true
+      "be_moved": false
     }
   ]
 }

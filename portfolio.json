@@ -34,13 +34,13 @@
     },
     "strat1": {
       "name": "HTF Flow + Session Levels + Confluence (User S1)",
-      "balance": 45680.0,
-      "pnl": -4320.0,
-      "wins": 15,
+      "balance": 46760.0,
+      "pnl": -3240.0,
+      "wins": 16,
       "losses": 27,
       "breakevens": 14,
-      "total_trades": 57,
-      "win_rate": 0.357
+      "total_trades": 58,
+      "win_rate": 0.372
     },
     "strat2": {
       "name": "FVG + VWAP Absorption (User S2)",
@@ -100,7 +100,7 @@
       "strategy": "swing"
     },
     {
-      "id": "b4f1bc8b",
+      "id": "6a313aa5",
       "strategy": "strat1"
     }
   ],
