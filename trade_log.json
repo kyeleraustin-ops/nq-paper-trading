@@ -1869,6 +1869,40 @@
       "pnl_dollars": null,
       "reasoning": "Daily BOS=bullish | Level=prev_wk_high @ 30283.00 | Daily rejection candle | direction=short",
       "be_moved": false
+    },
+    {
+      "id": "ae66655a",
+      "strategy": "strat1",
+      "direction": "short",
+      "entry": 29899.25,
+      "sl": 29924.0,
+      "tp": 29849.75,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-18T00:28:53.934488-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bearish | FVG=True | VWAP=True | Fib=None | session=True | confluence=2/3 | rejection=True",
+      "be_moved": false
+    },
+    {
+      "id": "c9d9ca05",
+      "strategy": "strat2",
+      "direction": "short",
+      "entry": 29899.25,
+      "sl": 29924.0,
+      "tp": 29849.75,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-18T00:28:54.319957-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bearish | VWAP reclaim | FVG=bearish | absorption=False | rejection=True",
+      "be_moved": false
     }
   ]
 }
