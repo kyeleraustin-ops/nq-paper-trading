@@ -28,7 +28,7 @@
       "pnl": -3310.0,
       "wins": 4,
       "losses": 10,
-      "breakevens": 4,
+      "breakevens": 5,
       "total_trades": 19,
       "win_rate": 0.286
     },
@@ -98,10 +98,6 @@
     {
       "id": "93ed4264",
       "strategy": "swing"
-    },
-    {
-      "id": "cbee9f3e",
-      "strategy": "my_day_trade"
     },
     {
       "id": "815b8693",
