@@ -1858,7 +1858,7 @@
       "strategy": "swing",
       "direction": "short",
       "entry": 30241.25,
-      "sl": 30837.99,
+      "sl": 30241.25,
       "tp": 29047.77,
       "contracts": 1,
       "status": "open",
@@ -1868,7 +1868,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "Daily BOS=bullish | Level=prev_wk_high @ 30283.00 | Daily rejection candle | direction=short",
-      "be_moved": false
+      "be_moved": true
     },
     {
       "id": "ae66655a",
@@ -2090,6 +2090,23 @@
       "pnl_dollars": 0.0,
       "reasoning": "HTF=bearish | FVG=True | VWAP=False | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
       "be_moved": true
+    },
+    {
+      "id": "af335dd7",
+      "strategy": "my_day_trade",
+      "direction": "short",
+      "entry": 29652.75,
+      "sl": 29726.5,
+      "tp": 29505.25,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-18T09:43:27.307642-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bearish | VWAP=29759.31 | near VWAP | rejection=True",
+      "be_moved": false
     }
   ]
 }
