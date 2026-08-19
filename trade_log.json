@@ -2381,7 +2381,7 @@
       "be_moved": false
     },
     {
-      "id": "bd4f7eb2",
+      "id": "51ece66a",
       "strategy": "strat1",
       "direction": "short",
       "entry": 29637.0,
@@ -2389,7 +2389,7 @@
       "tp": 29629.5,
       "contracts": 7,
       "status": "open",
-      "entry_time": "2026-08-19T19:03:14.500893-04:00",
+      "entry_time": "2026-08-19T19:03:15.255983-04:00",
       "exit_price": null,
       "exit_time": null,
       "pnl_points": null,
@@ -2398,7 +2398,7 @@
       "be_moved": false
     },
     {
-      "id": "b36c5a77",
+      "id": "65bca142",
       "strategy": "strat2",
       "direction": "short",
       "entry": 29637.0,
@@ -2406,7 +2406,7 @@
       "tp": 29629.5,
       "contracts": 7,
       "status": "open",
-      "entry_time": "2026-08-19T19:03:14.862707-04:00",
+      "entry_time": "2026-08-19T19:03:15.618807-04:00",
       "exit_price": null,
       "exit_time": null,
       "pnl_points": null,
