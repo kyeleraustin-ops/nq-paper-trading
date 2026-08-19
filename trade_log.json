@@ -2286,12 +2286,12 @@
       "sl": 29567.25,
       "tp": 29439.75,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-08-19T03:02:48.012842-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29567.25,
+      "exit_time": "2026-08-19T03:31:05.694803-04:00",
+      "pnl_points": -42.5,
+      "pnl_dollars": -850.0,
       "reasoning": "HTF=bearish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
       "be_moved": false
     }
