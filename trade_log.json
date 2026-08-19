@@ -2249,7 +2249,7 @@
       "strategy": "strat1",
       "direction": "short",
       "entry": 29515.25,
-      "sl": 29567.25,
+      "sl": 29515.25,
       "tp": 29411.25,
       "contracts": 1,
       "status": "open",
@@ -2259,7 +2259,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "HTF=bearish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
-      "be_moved": false
+      "be_moved": true
     },
     {
       "id": "dc2a6b75",
