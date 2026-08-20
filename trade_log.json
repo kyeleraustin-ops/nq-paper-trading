@@ -2702,6 +2702,40 @@
       "pnl_dollars": 920.0,
       "reasoning": "15m structure=bullish | DOL=asia_high @ 29689.75 | VWAP rebalance (extended 2 bars past \u00b11SD) | FVG=bullish [29562.50\u201329626.00] | VWAP=29622.74",
       "be_moved": true
+    },
+    {
+      "id": "4393c0f5",
+      "strategy": "strat1",
+      "direction": "short",
+      "entry": 29375.0,
+      "sl": 29567.0,
+      "tp": 28991.0,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-20T09:41:11.037255-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bearish | FVG=True | VWAP=True | Fib=0.5 | session=True | confluence=3/3 | rejection=True",
+      "be_moved": false
+    },
+    {
+      "id": "c7daf27a",
+      "strategy": "strat2",
+      "direction": "short",
+      "entry": 29375.0,
+      "sl": 29567.0,
+      "tp": 28991.0,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-20T09:41:11.497386-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bearish | VWAP reclaim | FVG=bearish | absorption=False | rejection=True",
+      "be_moved": false
     }
   ]
 }
