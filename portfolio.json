@@ -69,7 +69,7 @@
       "pnl": -730.0,
       "wins": 0,
       "losses": 2,
-      "breakevens": 1,
+      "breakevens": 2,
       "total_trades": 4,
       "win_rate": 0.0
     },
@@ -89,7 +89,7 @@
       "pnl": 1835.0,
       "wins": 3,
       "losses": 2,
-      "breakevens": 2,
+      "breakevens": 3,
       "total_trades": 8,
       "win_rate": 0.6
     }
@@ -98,14 +98,6 @@
     {
       "id": "93ed4264",
       "strategy": "swing"
-    },
-    {
-      "id": "b7e4d4bc",
-      "strategy": "strat4"
-    },
-    {
-      "id": "41dd751b",
-      "strategy": "strat6"
     },
     {
       "id": "8f86ee0e",
