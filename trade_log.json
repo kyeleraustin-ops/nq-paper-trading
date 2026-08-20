@@ -2575,12 +2575,12 @@
       "sl": 29611.25,
       "tp": 29627.0,
       "contracts": 5,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-08-20T01:08:40.984348-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29611.25,
+      "exit_time": "2026-08-20T01:10:45.987401-04:00",
+      "pnl_points": -5.25,
+      "pnl_dollars": -525.0,
       "reasoning": "15m structure=bullish | DOL=asia_high @ 29689.75 | VWAP tap @ 29630.16 | FVG=bullish [29562.50\u201329626.00]",
       "be_moved": false
     }
