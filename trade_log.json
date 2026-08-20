@@ -2595,7 +2595,7 @@
       "status": "closed_loss",
       "entry_time": "2026-08-20T01:12:55.545186-04:00",
       "exit_price": 29617.0,
-      "exit_time": "2026-08-20T01:13:58.870672-04:00",
+      "exit_time": "2026-08-20T01:13:59.359539-04:00",
       "pnl_points": -4.5,
       "pnl_dollars": -540.0,
       "reasoning": "15m structure=bullish | DOL=asia_high @ 29689.75 | VWAP tap @ 29629.20 | FVG=bullish [29562.50\u201329626.00]",
@@ -2612,27 +2612,10 @@
       "status": "closed_loss",
       "entry_time": "2026-08-20T01:12:56.081593-04:00",
       "exit_price": 29617.0,
-      "exit_time": "2026-08-20T01:13:58.871666-04:00",
+      "exit_time": "2026-08-20T01:13:59.360537-04:00",
       "pnl_points": -4.5,
       "pnl_dollars": -540.0,
       "reasoning": "15m structure=bullish | DOL=asia_high @ 29689.75 | VWAP rebalance (extended 2 bars past \u00b11SD) | FVG=bullish [29562.50\u201329626.00] | VWAP=29629.20",
-      "be_moved": false
-    },
-    {
-      "id": "c8a44a9f",
-      "strategy": "strat4",
-      "direction": "long",
-      "entry": 29614.5,
-      "sl": 29611.25,
-      "tp": 29621.0,
-      "contracts": 8,
-      "status": "open",
-      "entry_time": "2026-08-20T01:14:00.821364-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
-      "reasoning": "15m structure=bullish | DOL=asia_high @ 29689.75 | VWAP tap @ 29628.99 | FVG=bullish [29562.50\u201329626.00]",
       "be_moved": false
     }
   ]
