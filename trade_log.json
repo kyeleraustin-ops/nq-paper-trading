@@ -2759,7 +2759,7 @@
       "strategy": "my_day_trade",
       "direction": "short",
       "entry": 29388.25,
-      "sl": 29470.25,
+      "sl": 29388.25,
       "tp": 29224.25,
       "contracts": 1,
       "status": "open",
@@ -2769,7 +2769,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "15m structure=bearish | VWAP=29405.41 | near VWAP | rejection=True",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
