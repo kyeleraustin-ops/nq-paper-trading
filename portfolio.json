@@ -65,12 +65,12 @@
     },
     "strat4": {
       "name": "Structure + DOL + VWAP Tap + FVG (S4)",
-      "balance": 48745.0,
-      "pnl": -1255.0,
+      "balance": 48205.0,
+      "pnl": -1795.0,
       "wins": 0,
-      "losses": 3,
+      "losses": 4,
       "breakevens": 2,
-      "total_trades": 6,
+      "total_trades": 7,
       "win_rate": 0.0
     },
     "strat5": {
@@ -85,13 +85,13 @@
     },
     "strat6": {
       "name": "Structure + DOL + VWAP Rebalance + FVG (S6)",
-      "balance": 51835.0,
-      "pnl": 1835.0,
+      "balance": 51295.0,
+      "pnl": 1295.0,
       "wins": 3,
-      "losses": 2,
+      "losses": 3,
       "breakevens": 3,
       "total_trades": 9,
-      "win_rate": 0.6
+      "win_rate": 0.5
     }
   },
   "open_trades": [
@@ -104,12 +104,8 @@
       "strategy": "strat2"
     },
     {
-      "id": "badd8345",
+      "id": "c8a44a9f",
       "strategy": "strat4"
-    },
-    {
-      "id": "23fe735d",
-      "strategy": "strat6"
     }
   ],
   "last_updated": "2026-08-20"
