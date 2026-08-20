@@ -2532,6 +2532,23 @@
       "pnl_dollars": null,
       "reasoning": "15m structure=bullish | DOL=asia_high @ 29656.00 | VWAP tap @ 29633.62 | FVG=bullish [29546.00\u201329636.00]",
       "be_moved": false
+    },
+    {
+      "id": "41dd751b",
+      "strategy": "strat6",
+      "direction": "long",
+      "entry": 29619.75,
+      "sl": 29603.25,
+      "tp": 29652.75,
+      "contracts": 2,
+      "status": "open",
+      "entry_time": "2026-08-20T00:49:04.192112-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | DOL=asia_high @ 29656.00 | VWAP rebalance (extended 3 bars past \u00b11SD) | FVG=bullish [29546.00\u201329636.00] | VWAP=29633.08",
+      "be_moved": false
     }
   ]
 }
