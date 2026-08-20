@@ -24,13 +24,13 @@
     },
     "my_day_trade": {
       "name": "Structure + VWAP Reclaim (Claude)",
-      "balance": 47770.0,
-      "pnl": -2230.0,
+      "balance": 46980.0,
+      "pnl": -3020.0,
       "wins": 5,
-      "losses": 10,
+      "losses": 11,
       "breakevens": 5,
-      "total_trades": 21,
-      "win_rate": 0.333
+      "total_trades": 22,
+      "win_rate": 0.312
     },
     "strat1": {
       "name": "HTF Flow + Session Levels + Confluence (User S1)",
@@ -108,7 +108,7 @@
       "strategy": "strat2"
     },
     {
-      "id": "31714a40",
+      "id": "e60a747d",
       "strategy": "my_day_trade"
     }
   ],
