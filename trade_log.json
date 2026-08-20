@@ -2617,6 +2617,40 @@
       "pnl_dollars": -540.0,
       "reasoning": "15m structure=bullish | DOL=asia_high @ 29689.75 | VWAP rebalance (extended 2 bars past \u00b11SD) | FVG=bullish [29562.50\u201329626.00] | VWAP=29629.20",
       "be_moved": false
+    },
+    {
+      "id": "66fd36f1",
+      "strategy": "strat4",
+      "direction": "long",
+      "entry": 29616.25,
+      "sl": 29611.25,
+      "tp": 29626.25,
+      "contracts": 5,
+      "status": "open",
+      "entry_time": "2026-08-20T01:16:08.648526-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | DOL=asia_high @ 29689.75 | VWAP tap @ 29628.51 | FVG=bullish [29562.50\u201329626.00]",
+      "be_moved": false
+    },
+    {
+      "id": "4768c30b",
+      "strategy": "strat6",
+      "direction": "long",
+      "entry": 29616.25,
+      "sl": 29611.25,
+      "tp": 29626.25,
+      "contracts": 5,
+      "status": "open",
+      "entry_time": "2026-08-20T01:16:09.189136-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | DOL=asia_high @ 29689.75 | VWAP rebalance (extended 2 bars past \u00b11SD) | FVG=bullish [29562.50\u201329626.00] | VWAP=29628.51",
+      "be_moved": false
     }
   ]
 }
