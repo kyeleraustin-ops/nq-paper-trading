@@ -2770,6 +2770,23 @@
       "pnl_dollars": 0.0,
       "reasoning": "15m structure=bearish | VWAP=29405.41 | near VWAP | rejection=True",
       "be_moved": true
+    },
+    {
+      "id": "fae7289a",
+      "strategy": "my_day_trade",
+      "direction": "short",
+      "entry": 29362.25,
+      "sl": 29373.25,
+      "tp": 29340.25,
+      "contracts": 2,
+      "status": "open",
+      "entry_time": "2026-08-20T13:01:23.675197-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bearish | VWAP=29388.11 | near VWAP | rejection=True",
+      "be_moved": false
     }
   ]
 }
