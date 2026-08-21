@@ -2804,6 +2804,23 @@
       "pnl_dollars": 1220.0,
       "reasoning": "15m structure=bullish | DOL=asia_high @ 29380.75 | VWAP tap @ 29351.39 | FVG=bullish [29338.50\u201329354.75]",
       "be_moved": true
+    },
+    {
+      "id": "1f113d5e",
+      "strategy": "strat4",
+      "direction": "long",
+      "entry": 29406.5,
+      "sl": 29376.0,
+      "tp": 29467.5,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-21T04:31:19.554765-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | DOL=london_high @ 29464.25 | VWAP tap @ 29397.83 | FVG=bullish [29391.50\u201329414.25]",
+      "be_moved": false
     }
   ]
 }
