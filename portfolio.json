@@ -14,13 +14,13 @@
   "strategies": {
     "smt_dol": {
       "name": "HTF SMT + DOL Priority",
-      "balance": 50000,
-      "pnl": 0,
+      "balance": 50510.0,
+      "pnl": 510.0,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "breakevens": 0,
       "total_trades": 1,
-      "win_rate": 0
+      "win_rate": 0.0
     },
     "my_day_trade": {
       "name": "Structure + VWAP Reclaim (Claude)",
@@ -106,10 +106,6 @@
     {
       "id": "c7daf27a",
       "strategy": "strat2"
-    },
-    {
-      "id": "690f50aa",
-      "strategy": "smt_dol"
     }
   ],
   "last_updated": "2026-08-21"

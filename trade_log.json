@@ -2830,12 +2830,12 @@
       "sl": 29501.25,
       "tp": 29509.75,
       "contracts": 3,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-08-21T08:11:10.874738-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29501.25,
+      "exit_time": "2026-08-21T08:12:15.851458-04:00",
+      "pnl_points": 8.5,
+      "pnl_dollars": 510.0,
       "reasoning": "HTF=bullish | DOL=wickless_low@29511.25 | Fib=0.5 | FVG15m=bullish | 1mSMT=bullish | disp=[iob:False cisd:False ifvg:True]",
       "be_moved": false
     }
