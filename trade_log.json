@@ -2855,6 +2855,23 @@
       "pnl_dollars": -480.0,
       "reasoning": "15m structure=bullish | DOL=london_high @ 29539.00 | VWAP tap @ 29456.45 | FVG=bullish [29444.75\u201329464.50]",
       "be_moved": false
+    },
+    {
+      "id": "378c9a49",
+      "strategy": "my_day_trade",
+      "direction": "long",
+      "entry": 29347.5,
+      "sl": 29342.75,
+      "tp": 29357.0,
+      "contracts": 5,
+      "status": "open",
+      "entry_time": "2026-08-21T09:50:30.294026-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | VWAP=29433.72 | near VWAP | rejection=True",
+      "be_moved": false
     }
   ]
 }
