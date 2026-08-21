@@ -2821,6 +2821,23 @@
       "pnl_dollars": 1220.0,
       "reasoning": "15m structure=bullish | DOL=london_high @ 29464.25 | VWAP tap @ 29397.83 | FVG=bullish [29391.50\u201329414.25]",
       "be_moved": true
+    },
+    {
+      "id": "690f50aa",
+      "strategy": "smt_dol",
+      "direction": "long",
+      "entry": 29492.75,
+      "sl": 29501.25,
+      "tp": 29509.75,
+      "contracts": 3,
+      "status": "open",
+      "entry_time": "2026-08-21T08:11:10.874738-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bullish | DOL=wickless_low@29511.25 | Fib=0.5 | FVG15m=bullish | 1mSMT=bullish | disp=[iob:False cisd:False ifvg:True]",
+      "be_moved": false
     }
   ]
 }
