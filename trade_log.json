@@ -2838,6 +2838,23 @@
       "pnl_dollars": 510.0,
       "reasoning": "HTF=bullish | DOL=wickless_low@29511.25 | Fib=0.5 | FVG15m=bullish | 1mSMT=bullish | disp=[iob:False cisd:False ifvg:True]",
       "be_moved": false
+    },
+    {
+      "id": "59842e86",
+      "strategy": "strat4",
+      "direction": "long",
+      "entry": 29463.0,
+      "sl": 29460.0,
+      "tp": 29469.0,
+      "contracts": 8,
+      "status": "open",
+      "entry_time": "2026-08-21T09:27:27.337470-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | DOL=london_high @ 29539.00 | VWAP tap @ 29456.45 | FVG=bullish [29444.75\u201329464.50]",
+      "be_moved": false
     }
   ]
 }
