@@ -2847,12 +2847,12 @@
       "sl": 29460.0,
       "tp": 29469.0,
       "contracts": 8,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-08-21T09:27:27.337470-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29460.0,
+      "exit_time": "2026-08-21T09:28:31.699323-04:00",
+      "pnl_points": -3.0,
+      "pnl_dollars": -480.0,
       "reasoning": "15m structure=bullish | DOL=london_high @ 29539.00 | VWAP tap @ 29456.45 | FVG=bullish [29444.75\u201329464.50]",
       "be_moved": false
     }
