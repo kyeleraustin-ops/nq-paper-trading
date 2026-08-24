@@ -2974,6 +2974,23 @@
       "pnl_dollars": -1163.0,
       "reasoning": "15m structure=bullish | VWAP=29182.05 | near VWAP | rejection=True",
       "be_moved": false
+    },
+    {
+      "id": "60bbef79",
+      "strategy": "my_day_trade",
+      "direction": "long",
+      "entry": 28994.25,
+      "sl": 28936.26,
+      "tp": 29110.23,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-24T10:01:28.403483-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | VWAP=29142.00 | near VWAP | rejection=True",
+      "be_moved": false
     }
   ]
 }
