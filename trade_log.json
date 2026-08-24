@@ -2980,7 +2980,7 @@
       "strategy": "my_day_trade",
       "direction": "long",
       "entry": 28994.25,
-      "sl": 28936.26,
+      "sl": 28994.25,
       "tp": 29110.23,
       "contracts": 1,
       "status": "open",
@@ -2990,7 +2990,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "15m structure=bullish | VWAP=29142.00 | near VWAP | rejection=True",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
