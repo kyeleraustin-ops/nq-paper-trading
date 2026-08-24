@@ -3167,7 +3167,7 @@
       "strategy": "strat1",
       "direction": "short",
       "entry": 29201.0,
-      "sl": 29212.5,
+      "sl": 29201.0,
       "tp": 29178.0,
       "contracts": 2,
       "status": "open",
@@ -3177,23 +3177,40 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "HTF=bearish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
-      "be_moved": false
+      "be_moved": true
     },
     {
       "id": "e08bf258",
       "strategy": "strat5",
       "direction": "short",
       "entry": 29201.0,
-      "sl": 29205.5,
+      "sl": 29201.0,
       "tp": 29192.0,
       "contracts": 6,
-      "status": "open",
+      "status": "closed_win",
       "entry_time": "2026-08-24T14:47:18.854784-04:00",
+      "exit_price": 29192.0,
+      "exit_time": "2026-08-24T14:48:23.339109-04:00",
+      "pnl_points": 9.0,
+      "pnl_dollars": 1080.0,
+      "reasoning": "15m structure=bearish | DOL=london_low @ 29116.75 | tap=+1SD @ 29201.32 | absorption=True | no FVG required",
+      "be_moved": true
+    },
+    {
+      "id": "b51ba1f2",
+      "strategy": "strat5",
+      "direction": "short",
+      "entry": 29194.25,
+      "sl": 29205.5,
+      "tp": 29171.75,
+      "contracts": 2,
+      "status": "open",
+      "entry_time": "2026-08-24T14:48:25.702010-04:00",
       "exit_price": null,
       "exit_time": null,
       "pnl_points": null,
       "pnl_dollars": null,
-      "reasoning": "15m structure=bearish | DOL=london_low @ 29116.75 | tap=+1SD @ 29201.32 | absorption=True | no FVG required",
+      "reasoning": "15m structure=bearish | DOL=london_low @ 29116.75 | tap=+1SD @ 29201.41 | absorption=True | no FVG required",
       "be_moved": false
     }
   ]
