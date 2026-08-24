@@ -2991,6 +2991,40 @@
       "pnl_dollars": null,
       "reasoning": "15m structure=bullish | VWAP=29142.00 | near VWAP | rejection=True",
       "be_moved": true
+    },
+    {
+      "id": "c646110f",
+      "strategy": "strat1",
+      "direction": "short",
+      "entry": 29079.0,
+      "sl": 29212.5,
+      "tp": 28812.0,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-24T10:47:56.338406-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bearish | FVG=True | VWAP=True | Fib=0.5 | session=True | confluence=3/3 | rejection=True",
+      "be_moved": false
+    },
+    {
+      "id": "43138f71",
+      "strategy": "strat2",
+      "direction": "short",
+      "entry": 29079.0,
+      "sl": 29212.5,
+      "tp": 28812.0,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-24T10:47:56.690278-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bearish | VWAP reclaim | FVG=bearish | absorption=False | rejection=True",
+      "be_moved": false
     }
   ]
 }
