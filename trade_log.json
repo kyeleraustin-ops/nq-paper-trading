@@ -2940,6 +2940,23 @@
       "pnl_dollars": 0.0,
       "reasoning": "15m structure=bearish | DOL=prev_day_low @ 29220.00 | VWAP tap @ 29203.80 | FVG=bearish [29219.25\u201329263.00]",
       "be_moved": true
+    },
+    {
+      "id": "2617e3a7",
+      "strategy": "my_day_trade",
+      "direction": "long",
+      "entry": 29226.5,
+      "sl": 29208.25,
+      "tp": 29263.0,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-24T09:38:06.889758-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | VWAP=29209.06 | VWAP reclaim | rejection=False",
+      "be_moved": false
     }
   ]
 }
