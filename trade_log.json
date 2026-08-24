@@ -2906,6 +2906,23 @@
       "pnl_dollars": -480.0,
       "reasoning": "15m structure=bullish | VWAP=29430.38 | near VWAP | rejection=True",
       "be_moved": false
+    },
+    {
+      "id": "ecfc986f",
+      "strategy": "strat4",
+      "direction": "short",
+      "entry": 29244.5,
+      "sl": 29247.75,
+      "tp": 29238.0,
+      "contracts": 8,
+      "status": "open",
+      "entry_time": "2026-08-24T05:58:37.076873-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bearish | DOL=prev_day_low @ 29220.00 | VWAP tap @ 29203.62 | FVG=bearish [29219.25\u201329263.00]",
+      "be_moved": false
     }
   ]
 }
