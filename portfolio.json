@@ -69,8 +69,8 @@
       "pnl": -835.0,
       "wins": 2,
       "losses": 7,
-      "breakevens": 2,
-      "total_trades": 12,
+      "breakevens": 3,
+      "total_trades": 13,
       "win_rate": 0.222
     },
     "strat5": {
@@ -108,7 +108,7 @@
       "strategy": "strat2"
     },
     {
-      "id": "ecfc986f",
+      "id": "cba092ad",
       "strategy": "strat4"
     }
   ],
