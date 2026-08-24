@@ -54,9 +54,9 @@
     },
     "swing": {
       "name": "Weekly Level Fades - Swing (Claude)",
-      "balance": 69137.2,
-      "pnl": 19137.2,
-      "wins": 1,
+      "balance": 93006.8,
+      "pnl": 43006.8,
+      "wins": 2,
       "losses": 0,
       "breakevens": 0,
       "open_positions": [],
@@ -95,10 +95,6 @@
     }
   },
   "open_trades": [
-    {
-      "id": "93ed4264",
-      "strategy": "swing"
-    },
     {
       "id": "4393c0f5",
       "strategy": "strat1"
