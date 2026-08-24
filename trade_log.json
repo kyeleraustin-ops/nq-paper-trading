@@ -3221,12 +3221,12 @@
       "sl": 29180.0,
       "tp": 29115.0,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_win",
       "entry_time": "2026-08-24T15:00:13.453656-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29115.0,
+      "exit_time": "2026-08-24T16:01:04.723065-04:00",
+      "pnl_points": 65.0,
+      "pnl_dollars": 1300.0,
       "reasoning": "HTF=bearish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
       "be_moved": true
     }
