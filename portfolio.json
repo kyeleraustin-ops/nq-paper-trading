@@ -24,33 +24,33 @@
     },
     "my_day_trade": {
       "name": "Structure + VWAP Reclaim (Claude)",
-      "balance": 47635.0,
-      "pnl": -2365.0,
+      "balance": 46472.0,
+      "pnl": -3528.0,
       "wins": 7,
-      "losses": 14,
+      "losses": 15,
       "breakevens": 6,
       "total_trades": 28,
-      "win_rate": 0.333
+      "win_rate": 0.318
     },
     "strat1": {
       "name": "HTF Flow + Session Levels + Confluence (User S1)",
-      "balance": 52660.0,
-      "pnl": 2660.0,
-      "wins": 23,
+      "balance": 60340.0,
+      "pnl": 10340.0,
+      "wins": 24,
       "losses": 36,
       "breakevens": 20,
       "total_trades": 80,
-      "win_rate": 0.39
+      "win_rate": 0.4
     },
     "strat2": {
       "name": "FVG + VWAP Absorption (User S2)",
-      "balance": 41880.0,
-      "pnl": -8120.0,
-      "wins": 2,
+      "balance": 49560.0,
+      "pnl": -440.0,
+      "wins": 3,
       "losses": 7,
       "breakevens": 5,
       "total_trades": 15,
-      "win_rate": 0.222
+      "win_rate": 0.3
     },
     "swing": {
       "name": "Weekly Level Fades - Swing (Claude)",
@@ -94,19 +94,6 @@
       "win_rate": 0.444
     }
   },
-  "open_trades": [
-    {
-      "id": "4393c0f5",
-      "strategy": "strat1"
-    },
-    {
-      "id": "c7daf27a",
-      "strategy": "strat2"
-    },
-    {
-      "id": "1a9f77e4",
-      "strategy": "my_day_trade"
-    }
-  ],
+  "open_trades": [],
   "last_updated": "2026-08-24"
 }
