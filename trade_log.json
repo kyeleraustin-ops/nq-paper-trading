@@ -3161,6 +3161,40 @@
       "pnl_dollars": -440.0,
       "reasoning": "HTF=bearish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
       "be_moved": false
+    },
+    {
+      "id": "a8cdbab4",
+      "strategy": "strat1",
+      "direction": "short",
+      "entry": 29201.0,
+      "sl": 29212.5,
+      "tp": 29178.0,
+      "contracts": 2,
+      "status": "open",
+      "entry_time": "2026-08-24T14:47:18.022701-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bearish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
+      "be_moved": false
+    },
+    {
+      "id": "e08bf258",
+      "strategy": "strat5",
+      "direction": "short",
+      "entry": 29201.0,
+      "sl": 29205.5,
+      "tp": 29192.0,
+      "contracts": 6,
+      "status": "open",
+      "entry_time": "2026-08-24T14:47:18.854784-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bearish | DOL=london_low @ 29116.75 | tap=+1SD @ 29201.32 | absorption=True | no FVG required",
+      "be_moved": false
     }
   ]
 }
