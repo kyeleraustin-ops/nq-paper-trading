@@ -3025,6 +3025,23 @@
       "pnl_dollars": null,
       "reasoning": "HTF=bearish | VWAP reclaim | FVG=bearish | absorption=False | rejection=True",
       "be_moved": false
+    },
+    {
+      "id": "780434d0",
+      "strategy": "strat4",
+      "direction": "short",
+      "entry": 29086.5,
+      "sl": 29110.75,
+      "tp": 29038.0,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-24T11:36:41.827697-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bearish | DOL=ny_low @ 28946.75 | VWAP tap @ 29092.56 | FVG=bearish [29038.00\u201329195.75]",
+      "be_moved": false
     }
   ]
 }
