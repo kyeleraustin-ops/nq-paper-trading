@@ -3340,13 +3340,30 @@
       "sl": 29236.25,
       "tp": 29289.5,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-08-25T10:49:11.483347-04:00",
+      "exit_price": 29236.25,
+      "exit_time": "2026-08-25T10:50:16.349520-04:00",
+      "pnl_points": -17.75,
+      "pnl_dollars": -355.0,
+      "reasoning": "15m structure=bullish | DOL=ny_high @ 29414.75 | tap=-1SD @ 29242.15 | absorption=True | no FVG required",
+      "be_moved": false
+    },
+    {
+      "id": "360643ae",
+      "strategy": "strat5",
+      "direction": "long",
+      "entry": 29254.0,
+      "sl": 29236.25,
+      "tp": 29289.5,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-25T10:50:19.790644-04:00",
       "exit_price": null,
       "exit_time": null,
       "pnl_points": null,
       "pnl_dollars": null,
-      "reasoning": "15m structure=bullish | DOL=ny_high @ 29414.75 | tap=-1SD @ 29242.15 | absorption=True | no FVG required",
+      "reasoning": "15m structure=bullish | DOL=ny_high @ 29414.75 | tap=-1SD @ 29241.86 | absorption=True | no FVG required",
       "be_moved": false
     }
   ]
