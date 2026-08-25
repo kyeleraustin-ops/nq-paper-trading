@@ -3303,17 +3303,17 @@
       "strategy": "my_day_trade",
       "direction": "long",
       "entry": 29331.75,
-      "sl": 29312.5,
+      "sl": 29331.75,
       "tp": 29370.25,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_be",
       "entry_time": "2026-08-25T09:50:15.226269-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29331.75,
+      "exit_time": "2026-08-25T09:51:21.400673-04:00",
+      "pnl_points": 0.0,
+      "pnl_dollars": 0.0,
       "reasoning": "15m structure=bullish | VWAP=29316.14 | VWAP reclaim | rejection=False",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
