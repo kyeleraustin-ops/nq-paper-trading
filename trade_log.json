@@ -3252,7 +3252,7 @@
       "strategy": "strat2",
       "direction": "short",
       "entry": 29109.5,
-      "sl": 29152.75,
+      "sl": 29109.5,
       "tp": 29023.0,
       "contracts": 1,
       "status": "open",
@@ -3262,7 +3262,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "HTF=bearish | VWAP reclaim | FVG=bearish | absorption=True | rejection=False",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
