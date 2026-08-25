@@ -3263,6 +3263,23 @@
       "pnl_dollars": 1730.0,
       "reasoning": "HTF=bearish | VWAP reclaim | FVG=bearish | absorption=True | rejection=False",
       "be_moved": true
+    },
+    {
+      "id": "2c878af8",
+      "strategy": "my_day_trade",
+      "direction": "long",
+      "entry": 29319.25,
+      "sl": 29312.5,
+      "tp": 29332.75,
+      "contracts": 4,
+      "status": "open",
+      "entry_time": "2026-08-25T09:41:31.710620-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | VWAP=29307.68 | VWAP reclaim | rejection=False",
+      "be_moved": false
     }
   ]
 }
