@@ -29,7 +29,7 @@
       "wins": 9,
       "losses": 16,
       "breakevens": 6,
-      "total_trades": 31,
+      "total_trades": 32,
       "win_rate": 0.36
     },
     "strat1": {
@@ -94,6 +94,11 @@
       "win_rate": 0.444
     }
   },
-  "open_trades": [],
+  "open_trades": [
+    {
+      "id": "5d07ccf0",
+      "strategy": "my_day_trade"
+    }
+  ],
   "last_updated": "2026-08-25"
 }
