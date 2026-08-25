@@ -44,13 +44,13 @@
     },
     "strat2": {
       "name": "FVG + VWAP Absorption (User S2)",
-      "balance": 46890.0,
-      "pnl": -3110.0,
-      "wins": 3,
+      "balance": 48620.0,
+      "pnl": -1380.0,
+      "wins": 4,
       "losses": 8,
       "breakevens": 5,
       "total_trades": 17,
-      "win_rate": 0.273
+      "win_rate": 0.333
     },
     "swing": {
       "name": "Weekly Level Fades - Swing (Claude)",
@@ -98,10 +98,6 @@
     {
       "id": "2c195f98",
       "strategy": "strat1"
-    },
-    {
-      "id": "500864a6",
-      "strategy": "strat2"
     }
   ],
   "last_updated": "2026-08-24"

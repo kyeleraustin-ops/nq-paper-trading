@@ -3255,12 +3255,12 @@
       "sl": 29109.5,
       "tp": 29023.0,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_win",
       "entry_time": "2026-08-24T19:51:56.302935-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29023.0,
+      "exit_time": "2026-08-24T20:27:01.579130-04:00",
+      "pnl_points": 86.5,
+      "pnl_dollars": 1730.0,
       "reasoning": "HTF=bearish | VWAP reclaim | FVG=bearish | absorption=True | rejection=False",
       "be_moved": true
     }
