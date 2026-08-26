@@ -3388,17 +3388,17 @@
       "strategy": "strat5",
       "direction": "short",
       "entry": 29220.25,
-      "sl": 29224.75,
+      "sl": 29220.25,
       "tp": 29211.25,
       "contracts": 6,
-      "status": "open",
+      "status": "closed_win",
       "entry_time": "2026-08-26T03:19:11.430256-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29211.25,
+      "exit_time": "2026-08-26T03:20:16.463901-04:00",
+      "pnl_points": 9.0,
+      "pnl_dollars": 1080.0,
       "reasoning": "15m structure=bearish | DOL=london_low @ 29203.50 | tap=VWAP @ 29242.78 | absorption=True | no FVG required",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
