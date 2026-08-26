@@ -3371,7 +3371,7 @@
       "strategy": "strat5",
       "direction": "short",
       "entry": 29250.5,
-      "sl": 29259.75,
+      "sl": 29250.5,
       "tp": 29232.0,
       "contracts": 3,
       "status": "open",
@@ -3381,7 +3381,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "15m structure=bearish | DOL=london_low @ 29203.50 | tap=+1SD @ 29261.01 | absorption=True | no FVG required",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
