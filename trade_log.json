@@ -3374,12 +3374,12 @@
       "sl": 29250.5,
       "tp": 29232.0,
       "contracts": 3,
-      "status": "open",
+      "status": "closed_be",
       "entry_time": "2026-08-26T03:01:56.898115-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29250.5,
+      "exit_time": "2026-08-26T03:06:17.663698-04:00",
+      "pnl_points": 0.0,
+      "pnl_dollars": 0.0,
       "reasoning": "15m structure=bearish | DOL=london_low @ 29203.50 | tap=+1SD @ 29261.01 | absorption=True | no FVG required",
       "be_moved": true
     }
