@@ -3552,6 +3552,23 @@
       "pnl_dollars": -420.0,
       "reasoning": "15m structure=bullish | DOL=asia_high @ 29654.75 | VWAP rebalance (extended 3 bars past \u00b11SD) | FVG=bullish [29368.25\u201329499.25] | VWAP=29485.27",
       "be_moved": false
+    },
+    {
+      "id": "790d7444",
+      "strategy": "my_day_trade",
+      "direction": "short",
+      "entry": 29578.25,
+      "sl": 29590.5,
+      "tp": 29553.75,
+      "contracts": 2,
+      "status": "open",
+      "entry_time": "2026-08-27T09:55:29.642338-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bearish | VWAP=29534.09 | near VWAP | rejection=True",
+      "be_moved": false
     }
   ]
 }
