@@ -3450,6 +3450,23 @@
       "pnl_dollars": null,
       "reasoning": "HTF=bullish | FVG=True | VWAP=False | Fib=0.5 | session=False | confluence=2/3 | rejection=True",
       "be_moved": false
+    },
+    {
+      "id": "7a04304b",
+      "strategy": "strat5",
+      "direction": "long",
+      "entry": 29514.5,
+      "sl": 29432.5,
+      "tp": 29678.5,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-27T00:57:23.762022-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | DOL=asia_high @ 29654.75 | tap=-1SD @ 29508.52 | absorption=True | no FVG required",
+      "be_moved": false
     }
   ]
 }
