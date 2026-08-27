@@ -3569,6 +3569,23 @@
       "pnl_dollars": 980.0,
       "reasoning": "15m structure=bearish | VWAP=29534.09 | near VWAP | rejection=True",
       "be_moved": true
+    },
+    {
+      "id": "9c60b4be",
+      "strategy": "my_day_trade",
+      "direction": "short",
+      "entry": 29489.0,
+      "sl": 29548.75,
+      "tp": 29369.5,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-27T09:57:47.515731-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bearish | VWAP=29533.57 | VWAP reclaim | rejection=False",
+      "be_moved": false
     }
   ]
 }
