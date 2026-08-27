@@ -3578,12 +3578,12 @@
       "sl": 29548.75,
       "tp": 29369.5,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-08-27T09:57:47.515731-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29548.75,
+      "exit_time": "2026-08-27T10:01:03.251545-04:00",
+      "pnl_points": -59.75,
+      "pnl_dollars": -1195.0,
       "reasoning": "15m structure=bearish | VWAP=29533.57 | VWAP reclaim | rejection=False",
       "be_moved": false
     }
