@@ -3484,6 +3484,23 @@
       "pnl_dollars": null,
       "reasoning": "HTF=bullish | VWAP reclaim | FVG=bullish | absorption=True | rejection=False",
       "be_moved": false
+    },
+    {
+      "id": "709561c6",
+      "strategy": "strat4",
+      "direction": "long",
+      "entry": 29473.0,
+      "sl": 29432.5,
+      "tp": 29554.0,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-27T01:33:57.670510-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | DOL=asia_high @ 29654.75 | VWAP tap @ 29497.37 | FVG=bullish [29368.25\u201329499.25]",
+      "be_moved": false
     }
   ]
 }
