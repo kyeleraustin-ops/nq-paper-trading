@@ -39,7 +39,7 @@
       "wins": 26,
       "losses": 41,
       "breakevens": 24,
-      "total_trades": 91,
+      "total_trades": 92,
       "win_rate": 0.388
     },
     "strat2": {
@@ -94,6 +94,11 @@
       "win_rate": 0.444
     }
   },
-  "open_trades": [],
+  "open_trades": [
+    {
+      "id": "0e3e117c",
+      "strategy": "strat1"
+    }
+  ],
   "last_updated": "2026-08-26"
 }
