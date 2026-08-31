@@ -3745,17 +3745,17 @@
       "strategy": "strat5",
       "direction": "long",
       "entry": 29394.0,
-      "sl": 29388.0,
+      "sl": 29394.0,
       "tp": 29406.0,
       "contracts": 4,
-      "status": "open",
+      "status": "closed_be",
       "entry_time": "2026-08-31T14:55:45.427699-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29394.0,
+      "exit_time": "2026-08-31T14:57:52.775077-04:00",
+      "pnl_points": 0.0,
+      "pnl_dollars": 0.0,
       "reasoning": "15m structure=bullish | DOL=london_low @ 29425.25 | tap=-1SD @ 29393.24 | absorption=True | no FVG required",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
