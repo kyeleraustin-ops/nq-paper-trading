@@ -3663,12 +3663,12 @@
       "sl": 29514.75,
       "tp": 29641.5,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-08-27T11:50:04.177526-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29514.75,
+      "exit_time": "2026-08-31T00:36:49.640532-04:00",
+      "pnl_points": -42.25,
+      "pnl_dollars": -845.0,
       "reasoning": "HTF=bullish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
       "be_moved": false
     }
