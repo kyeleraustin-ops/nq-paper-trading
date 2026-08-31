@@ -3731,12 +3731,12 @@
       "sl": 29440.5,
       "tp": 29501.25,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-08-31T09:43:48.696146-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29440.5,
+      "exit_time": "2026-08-31T09:45:56.931964-04:00",
+      "pnl_points": -20.25,
+      "pnl_dollars": -405.0,
       "reasoning": "15m structure=bullish | VWAP=29451.38 | VWAP reclaim | rejection=False",
       "be_moved": false
     }
