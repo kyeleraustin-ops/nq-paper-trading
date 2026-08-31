@@ -3688,6 +3688,23 @@
       "pnl_dollars": 0.0,
       "reasoning": "15m structure=bullish | DOL=asia_high @ 29495.00 | tap=VWAP @ 29463.47 | absorption=True | no FVG required",
       "be_moved": true
+    },
+    {
+      "id": "03e50fe7",
+      "strategy": "my_day_trade",
+      "direction": "long",
+      "entry": 29470.5,
+      "sl": 29440.5,
+      "tp": 29530.5,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-08-31T09:40:27.853735-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | VWAP=29449.01 | VWAP reclaim | rejection=False",
+      "be_moved": false
     }
   ]
 }
