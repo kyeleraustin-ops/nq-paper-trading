@@ -3677,7 +3677,7 @@
       "strategy": "strat5",
       "direction": "long",
       "entry": 29464.25,
-      "sl": 29446.75,
+      "sl": 29464.25,
       "tp": 29499.25,
       "contracts": 1,
       "status": "open",
@@ -3687,7 +3687,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "15m structure=bullish | DOL=asia_high @ 29495.00 | tap=VWAP @ 29463.47 | absorption=True | no FVG required",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
