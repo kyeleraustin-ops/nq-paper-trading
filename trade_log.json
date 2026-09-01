@@ -3864,7 +3864,7 @@
       "strategy": "my_day_trade",
       "direction": "short",
       "entry": 29240.25,
-      "sl": 29257.75,
+      "sl": 29240.25,
       "tp": 29205.25,
       "contracts": 1,
       "status": "open",
@@ -3874,14 +3874,14 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "15m structure=bearish | VWAP=29200.45 | near VWAP | rejection=True",
-      "be_moved": false
+      "be_moved": true
     },
     {
       "id": "dc1b3746",
       "strategy": "strat1",
       "direction": "short",
       "entry": 29240.25,
-      "sl": 29257.75,
+      "sl": 29240.25,
       "tp": 29205.25,
       "contracts": 1,
       "status": "open",
@@ -3891,7 +3891,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "HTF=bearish | FVG=False | VWAP=True | Fib=0.705 | session=True | confluence=2/3 | rejection=True",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
