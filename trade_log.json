@@ -3858,6 +3858,40 @@
       "pnl_dollars": -585.0,
       "reasoning": "15m structure=bearish | VWAP=29198.67 | near VWAP | rejection=True",
       "be_moved": false
+    },
+    {
+      "id": "0fb28617",
+      "strategy": "my_day_trade",
+      "direction": "short",
+      "entry": 29240.25,
+      "sl": 29257.75,
+      "tp": 29205.25,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-09-01T11:01:02.516840-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bearish | VWAP=29200.45 | near VWAP | rejection=True",
+      "be_moved": false
+    },
+    {
+      "id": "dc1b3746",
+      "strategy": "strat1",
+      "direction": "short",
+      "entry": 29240.25,
+      "sl": 29257.75,
+      "tp": 29205.25,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-09-01T11:01:03.238575-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bearish | FVG=False | VWAP=True | Fib=0.705 | session=True | confluence=2/3 | rejection=True",
+      "be_moved": false
     }
   ]
 }
