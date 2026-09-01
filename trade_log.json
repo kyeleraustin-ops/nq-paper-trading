@@ -3790,6 +3790,57 @@
       "pnl_dollars": 0.0,
       "reasoning": "15m structure=bearish | DOL=asia_low @ 29434.75 | tap=+1SD @ 29495.80 | absorption=True | no FVG required",
       "be_moved": true
+    },
+    {
+      "id": "6db56a9d",
+      "strategy": "my_day_trade",
+      "direction": "short",
+      "entry": 29182.5,
+      "sl": 29228.0,
+      "tp": 29091.5,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-09-01T10:40:50.326598-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bearish | VWAP=29198.20 | near VWAP | rejection=True",
+      "be_moved": false
+    },
+    {
+      "id": "e1a2acf8",
+      "strategy": "strat1",
+      "direction": "short",
+      "entry": 29182.5,
+      "sl": 29257.75,
+      "tp": 29032.0,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-09-01T10:40:51.027926-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bearish | FVG=True | VWAP=True | Fib=0.5 | session=True | confluence=3/3 | rejection=True",
+      "be_moved": false
+    },
+    {
+      "id": "e6da675e",
+      "strategy": "strat2",
+      "direction": "short",
+      "entry": 29182.5,
+      "sl": 29257.75,
+      "tp": 29032.0,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-09-01T10:40:51.419828-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bearish | VWAP reclaim | FVG=bearish | absorption=False | rejection=True",
+      "be_moved": false
     }
   ]
 }
