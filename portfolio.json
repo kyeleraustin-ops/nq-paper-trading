@@ -34,23 +34,23 @@
     },
     "strat1": {
       "name": "HTF Flow + Session Levels + Confluence (User S1)",
-      "balance": 55060.0,
-      "pnl": 5060.0,
+      "balance": 53555.0,
+      "pnl": 3555.0,
       "wins": 27,
-      "losses": 46,
+      "losses": 47,
       "breakevens": 26,
       "total_trades": 100,
-      "win_rate": 0.37
+      "win_rate": 0.365
     },
     "strat2": {
       "name": "FVG + VWAP Absorption (User S2)",
-      "balance": 47290.0,
-      "pnl": -2710.0,
+      "balance": 45785.0,
+      "pnl": -4215.0,
       "wins": 4,
-      "losses": 9,
+      "losses": 10,
       "breakevens": 5,
       "total_trades": 19,
-      "win_rate": 0.308
+      "win_rate": 0.286
     },
     "swing": {
       "name": "Weekly Level Fades - Swing (Claude)",
@@ -94,15 +94,6 @@
       "win_rate": 0.333
     }
   },
-  "open_trades": [
-    {
-      "id": "e1a2acf8",
-      "strategy": "strat1"
-    },
-    {
-      "id": "e6da675e",
-      "strategy": "strat2"
-    }
-  ],
+  "open_trades": [],
   "last_updated": "2026-09-01"
 }
