@@ -3782,12 +3782,12 @@
       "sl": 29493.75,
       "tp": 29464.75,
       "contracts": 2,
-      "status": "open",
+      "status": "closed_be",
       "entry_time": "2026-09-01T00:40:04.425639-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29493.75,
+      "exit_time": "2026-09-01T00:57:13.265495-04:00",
+      "pnl_points": 0.0,
+      "pnl_dollars": 0.0,
       "reasoning": "15m structure=bearish | DOL=asia_low @ 29434.75 | tap=+1SD @ 29495.80 | absorption=True | no FVG required",
       "be_moved": true
     }
