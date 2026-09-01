@@ -3756,6 +3756,23 @@
       "pnl_dollars": 0.0,
       "reasoning": "15m structure=bullish | DOL=london_low @ 29425.25 | tap=-1SD @ 29393.24 | absorption=True | no FVG required",
       "be_moved": true
+    },
+    {
+      "id": "d56c4b4f",
+      "strategy": "strat6",
+      "direction": "short",
+      "entry": 29452.5,
+      "sl": 29464.25,
+      "tp": 29429.0,
+      "contracts": 2,
+      "status": "open",
+      "entry_time": "2026-08-31T22:59:21.473603-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bearish | DOL=prev_day_low @ 29436.25 | VWAP rebalance (extended 3 bars past \u00b11SD) | FVG=bearish [29444.75\u201329459.00] | VWAP=29437.93",
+      "be_moved": false
     }
   ]
 }
