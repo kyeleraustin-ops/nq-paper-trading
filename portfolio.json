@@ -80,7 +80,7 @@
       "wins": 9,
       "losses": 10,
       "breakevens": 9,
-      "total_trades": 28,
+      "total_trades": 29,
       "win_rate": 0.474
     },
     "strat6": {
@@ -94,6 +94,11 @@
       "win_rate": 0.333
     }
   },
-  "open_trades": [],
-  "last_updated": "2026-08-31"
+  "open_trades": [
+    {
+      "id": "cc307507",
+      "strategy": "strat5"
+    }
+  ],
+  "last_updated": "2026-09-01"
 }
