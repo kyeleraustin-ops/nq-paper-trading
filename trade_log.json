@@ -3901,14 +3901,31 @@
       "sl": 29229.0,
       "tp": 29171.5,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_be",
       "entry_time": "2026-09-01T11:11:43.822564-04:00",
+      "exit_price": 29229.0,
+      "exit_time": "2026-09-01T11:39:03.937984-04:00",
+      "pnl_points": 0.0,
+      "pnl_dollars": 0.0,
+      "reasoning": "HTF=bearish | FVG=False | VWAP=True | Fib=0.618 | session=True | confluence=2/3 | rejection=True",
+      "be_moved": true
+    },
+    {
+      "id": "a531af76",
+      "strategy": "strat1",
+      "direction": "short",
+      "entry": 29216.25,
+      "sl": 29257.75,
+      "tp": 29133.25,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-09-01T11:39:05.868042-04:00",
       "exit_price": null,
       "exit_time": null,
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "HTF=bearish | FVG=False | VWAP=True | Fib=0.618 | session=True | confluence=2/3 | rejection=True",
-      "be_moved": true
+      "be_moved": false
     }
   ]
 }
