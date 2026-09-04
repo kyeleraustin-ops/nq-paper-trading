@@ -4028,6 +4028,23 @@
       "pnl_dollars": 0.0,
       "reasoning": "HTF=bearish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
       "be_moved": true
+    },
+    {
+      "id": "762d23b7",
+      "strategy": "strat4",
+      "direction": "short",
+      "entry": 29563.0,
+      "sl": 29566.5,
+      "tp": 29556.0,
+      "contracts": 7,
+      "status": "open",
+      "entry_time": "2026-09-04T16:00:17.144869-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bearish | DOL=asia_low @ 29482.00 | VWAP tap @ 29568.91 | FVG=bearish [29560.75\u201329575.50]",
+      "be_moved": false
     }
   ]
 }
