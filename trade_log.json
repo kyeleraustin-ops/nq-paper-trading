@@ -4037,12 +4037,12 @@
       "sl": 29566.5,
       "tp": 29556.0,
       "contracts": 7,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-09-04T16:00:17.144869-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29566.5,
+      "exit_time": "2026-09-04T16:01:20.391206-04:00",
+      "pnl_points": -3.5,
+      "pnl_dollars": -490.0,
       "reasoning": "15m structure=bearish | DOL=asia_low @ 29482.00 | VWAP tap @ 29568.91 | FVG=bearish [29560.75\u201329575.50]",
       "be_moved": false
     }
