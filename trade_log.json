@@ -4045,6 +4045,23 @@
       "pnl_dollars": -490.0,
       "reasoning": "15m structure=bearish | DOL=asia_low @ 29482.00 | VWAP tap @ 29568.91 | FVG=bearish [29560.75\u201329575.50]",
       "be_moved": false
+    },
+    {
+      "id": "c9803acd",
+      "strategy": "strat4",
+      "direction": "short",
+      "entry": 29363.0,
+      "sl": 29366.75,
+      "tp": 29355.5,
+      "contracts": 7,
+      "status": "open",
+      "entry_time": "2026-09-16T19:19:20.700800-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bearish | DOL=london_low @ 29326.00 | VWAP tap @ 29367.97 | FVG=bearish [29303.75\u201329419.25]",
+      "be_moved": false
     }
   ]
 }
