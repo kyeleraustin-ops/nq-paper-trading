@@ -4241,12 +4241,12 @@
       "sl": 29770.0,
       "tp": 29900.0,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_win",
       "entry_time": "2026-09-18T00:46:48.128351-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29900.0,
+      "exit_time": "2026-09-18T02:42:57.275730-04:00",
+      "pnl_points": 130.0,
+      "pnl_dollars": 2600.0,
       "reasoning": "HTF=bullish | VWAP reclaim | FVG=bullish | absorption=True | rejection=False",
       "be_moved": true
     }
