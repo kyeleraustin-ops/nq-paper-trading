@@ -4215,6 +4215,23 @@
       "pnl_dollars": 880.0,
       "reasoning": "HTF=bullish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
       "be_moved": true
+    },
+    {
+      "id": "95d190bd",
+      "strategy": "strat5",
+      "direction": "short",
+      "entry": 29772.5,
+      "sl": 29793.25,
+      "tp": 29731.0,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-09-18T00:45:42.890624-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bearish | DOL=asia_low @ 29648.00 | tap=+1SD @ 29772.54 | absorption=True | no FVG required",
+      "be_moved": false
     }
   ]
 }
