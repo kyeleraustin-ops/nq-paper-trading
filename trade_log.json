@@ -4079,6 +4079,23 @@
       "pnl_dollars": null,
       "reasoning": "HTF=bullish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
       "be_moved": false
+    },
+    {
+      "id": "ceaa56cb",
+      "strategy": "strat5",
+      "direction": "short",
+      "entry": 29683.75,
+      "sl": 29694.75,
+      "tp": 29661.75,
+      "contracts": 2,
+      "status": "open",
+      "entry_time": "2026-09-17T20:18:09.509991-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bearish | DOL=london_high @ 29624.00 | tap=VWAP @ 29687.03 | absorption=True | no FVG required",
+      "be_moved": false
     }
   ]
 }
