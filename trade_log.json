@@ -4088,12 +4088,12 @@
       "sl": 29694.75,
       "tp": 29661.75,
       "contracts": 2,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-09-17T20:18:09.509991-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29694.75,
+      "exit_time": "2026-09-17T20:24:31.304579-04:00",
+      "pnl_points": -11.0,
+      "pnl_dollars": -440.0,
       "reasoning": "15m structure=bearish | DOL=london_high @ 29624.00 | tap=VWAP @ 29687.03 | absorption=True | no FVG required",
       "be_moved": false
     }
