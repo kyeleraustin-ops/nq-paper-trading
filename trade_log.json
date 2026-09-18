@@ -4249,6 +4249,40 @@
       "pnl_dollars": 2600.0,
       "reasoning": "HTF=bullish | VWAP reclaim | FVG=bullish | absorption=True | rejection=False",
       "be_moved": true
+    },
+    {
+      "id": "e0290f60",
+      "strategy": "strat1",
+      "direction": "long",
+      "entry": 29896.25,
+      "sl": 29705.0,
+      "tp": 30278.75,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-09-18T04:40:26.160833-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bullish | FVG=True | VWAP=True | Fib=None | session=True | confluence=2/3 | rejection=True",
+      "be_moved": false
+    },
+    {
+      "id": "8eaf337e",
+      "strategy": "strat2",
+      "direction": "long",
+      "entry": 29896.25,
+      "sl": 29705.0,
+      "tp": 30278.75,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-09-18T04:40:26.532983-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bullish | VWAP reclaim | FVG=bullish | absorption=False | rejection=True",
+      "be_moved": false
     }
   ]
 }
