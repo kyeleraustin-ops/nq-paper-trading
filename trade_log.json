@@ -4139,12 +4139,12 @@
       "sl": 29652.0,
       "tp": 29668.5,
       "contracts": 5,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-09-17T21:40:23.377912-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29652.0,
+      "exit_time": "2026-09-17T21:42:30.107312-04:00",
+      "pnl_points": -5.5,
+      "pnl_dollars": -550.0,
       "reasoning": "HTF=bullish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
       "be_moved": false
     }
