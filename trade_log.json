@@ -4283,6 +4283,23 @@
       "pnl_dollars": null,
       "reasoning": "HTF=bullish | VWAP reclaim | FVG=bullish | absorption=False | rejection=True",
       "be_moved": true
+    },
+    {
+      "id": "92691fda",
+      "strategy": "strat5",
+      "direction": "long",
+      "entry": 30088.25,
+      "sl": 30082.25,
+      "tp": 30100.25,
+      "contracts": 4,
+      "status": "open",
+      "entry_time": "2026-09-21T01:58:31.246712-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | DOL=asia_high @ 30130.50 | tap=VWAP @ 30088.97 | absorption=True | no FVG required",
+      "be_moved": false
     }
   ]
 }
