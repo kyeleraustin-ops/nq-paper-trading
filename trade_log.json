@@ -4292,12 +4292,12 @@
       "sl": 30088.25,
       "tp": 30100.25,
       "contracts": 4,
-      "status": "open",
+      "status": "closed_be",
       "entry_time": "2026-09-21T01:58:31.246712-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 30088.25,
+      "exit_time": "2026-09-21T02:07:54.490520-04:00",
+      "pnl_points": 0.0,
+      "pnl_dollars": 0.0,
       "reasoning": "15m structure=bullish | DOL=asia_high @ 30130.50 | tap=VWAP @ 30088.97 | absorption=True | no FVG required",
       "be_moved": true
     }
