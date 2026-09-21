@@ -4255,7 +4255,7 @@
       "strategy": "strat1",
       "direction": "long",
       "entry": 29896.25,
-      "sl": 29705.0,
+      "sl": 29896.25,
       "tp": 30278.75,
       "contracts": 1,
       "status": "open",
@@ -4265,14 +4265,14 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "HTF=bullish | FVG=True | VWAP=True | Fib=None | session=True | confluence=2/3 | rejection=True",
-      "be_moved": false
+      "be_moved": true
     },
     {
       "id": "8eaf337e",
       "strategy": "strat2",
       "direction": "long",
       "entry": 29896.25,
-      "sl": 29705.0,
+      "sl": 29896.25,
       "tp": 30278.75,
       "contracts": 1,
       "status": "open",
@@ -4282,7 +4282,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "HTF=bullish | VWAP reclaim | FVG=bullish | absorption=False | rejection=True",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
