@@ -4425,7 +4425,7 @@
       "strategy": "strat1",
       "direction": "long",
       "entry": 31014.25,
-      "sl": 31002.0,
+      "sl": 31014.25,
       "tp": 31038.75,
       "contracts": 2,
       "status": "open",
@@ -4435,7 +4435,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "HTF=bullish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
