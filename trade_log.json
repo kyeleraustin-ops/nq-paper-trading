@@ -4513,12 +4513,12 @@
       "sl": 30997.75,
       "tp": 31008.25,
       "contracts": 7,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-09-23T07:18:48.497940-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 30997.75,
+      "exit_time": "2026-09-23T07:19:52.198740-04:00",
+      "pnl_points": -3.5,
+      "pnl_dollars": -490.0,
       "reasoning": "HTF=bullish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
       "be_moved": false
     }
