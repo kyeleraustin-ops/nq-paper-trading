@@ -4680,7 +4680,7 @@
       "strategy": "smt_dol",
       "direction": "long",
       "entry": 30771.5,
-      "sl": 30782.5,
+      "sl": 30771.5,
       "tp": 30793.5,
       "contracts": 2,
       "status": "open",
@@ -4690,7 +4690,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "HTF=bullish | DOL=fvg_bearish@30902.00 | Fib=0.5 | FVG15m=bullish | 1mSMT=bullish | disp=[iob:False cisd:False ifvg:True]",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
