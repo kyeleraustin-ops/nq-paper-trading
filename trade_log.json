@@ -4646,7 +4646,7 @@
       "strategy": "strat1",
       "direction": "long",
       "entry": 30780.25,
-      "sl": 30756.5,
+      "sl": 30780.25,
       "tp": 30827.75,
       "contracts": 1,
       "status": "open",
@@ -4656,14 +4656,14 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "HTF=bullish | FVG=True | VWAP=True | Fib=0.5 | session=False | confluence=3/3 | rejection=True",
-      "be_moved": false
+      "be_moved": true
     },
     {
       "id": "17a17031",
       "strategy": "strat2",
       "direction": "long",
       "entry": 30780.25,
-      "sl": 30756.5,
+      "sl": 30780.25,
       "tp": 30827.75,
       "contracts": 1,
       "status": "open",
@@ -4673,7 +4673,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "HTF=bullish | VWAP reclaim | FVG=bullish | absorption=False | rejection=True",
-      "be_moved": false
+      "be_moved": true
     },
     {
       "id": "eabf2ac6",
