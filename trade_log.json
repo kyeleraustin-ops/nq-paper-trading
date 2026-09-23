@@ -4530,12 +4530,12 @@
       "sl": 30885.75,
       "tp": 31113.75,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-09-23T07:38:45.471754-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 30885.75,
+      "exit_time": "2026-09-23T09:56:30.204264-04:00",
+      "pnl_points": -76.0,
+      "pnl_dollars": -1520.0,
       "reasoning": "HTF=bullish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
       "be_moved": false
     },
@@ -4555,6 +4555,23 @@
       "pnl_dollars": 0.0,
       "reasoning": "HTF=bullish | VWAP reclaim | FVG=bullish | absorption=False | rejection=True",
       "be_moved": true
+    },
+    {
+      "id": "2a28d86a",
+      "strategy": "strat2",
+      "direction": "long",
+      "entry": 30880.25,
+      "sl": 30867.5,
+      "tp": 30905.75,
+      "contracts": 2,
+      "status": "open",
+      "entry_time": "2026-09-23T09:56:32.907243-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bullish | VWAP reclaim | FVG=bullish | absorption=True | rejection=False",
+      "be_moved": false
     }
   ]
 }
