@@ -14,12 +14,12 @@
   "strategies": {
     "smt_dol": {
       "name": "HTF SMT + DOL Priority",
-      "balance": 50510.0,
-      "pnl": 510.0,
+      "balance": 51005.0,
+      "pnl": 1005.0,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "breakevens": 0,
-      "total_trades": 2,
+      "total_trades": 3,
       "win_rate": 0.0
     },
     "my_day_trade": {
@@ -96,16 +96,16 @@
   },
   "open_trades": [
     {
-      "id": "fe0db247",
-      "strategy": "smt_dol"
-    },
-    {
       "id": "5519f3a0",
       "strategy": "strat1"
     },
     {
       "id": "17a17031",
       "strategy": "strat2"
+    },
+    {
+      "id": "eabf2ac6",
+      "strategy": "smt_dol"
     }
   ],
   "last_updated": "2026-09-23"

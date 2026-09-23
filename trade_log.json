@@ -4632,12 +4632,12 @@
       "sl": 30782.5,
       "tp": 30784.75,
       "contracts": 11,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-09-23T11:27:06.509701-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 30782.5,
+      "exit_time": "2026-09-23T11:28:12.727033-04:00",
+      "pnl_points": 2.25,
+      "pnl_dollars": 495.0,
       "reasoning": "HTF=bullish | DOL=fvg_bearish@30902.00 | Fib=0.5 | FVG15m=bullish | 1mSMT=bullish | disp=[iob:False cisd:False ifvg:True]",
       "be_moved": false
     },
@@ -4673,6 +4673,23 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "HTF=bullish | VWAP reclaim | FVG=bullish | absorption=False | rejection=True",
+      "be_moved": false
+    },
+    {
+      "id": "eabf2ac6",
+      "strategy": "smt_dol",
+      "direction": "long",
+      "entry": 30771.5,
+      "sl": 30782.5,
+      "tp": 30793.5,
+      "contracts": 2,
+      "status": "open",
+      "entry_time": "2026-09-23T11:28:13.964492-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bullish | DOL=fvg_bearish@30902.00 | Fib=0.5 | FVG15m=bullish | 1mSMT=bullish | disp=[iob:False cisd:False ifvg:True]",
       "be_moved": false
     }
   ]
