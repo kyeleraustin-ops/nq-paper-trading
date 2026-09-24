@@ -5295,12 +5295,12 @@
       "sl": 30479.0,
       "tp": 30500.0,
       "contracts": 4,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-09-24T04:30:30.726416-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 30479.0,
+      "exit_time": "2026-09-24T04:31:34.440860-04:00",
+      "pnl_points": -7.0,
+      "pnl_dollars": -560.0,
       "reasoning": "HTF=bullish | DOL=fvg_bearish@30525.00 | Fib=0.618 | FVG15m=bullish | 1mSMT=bullish | disp=[iob:False cisd:False ifvg:True]",
       "be_moved": false
     }
