@@ -34,13 +34,13 @@
     },
     "strat1": {
       "name": "HTF Flow + Session Levels + Confluence (User S1)",
-      "balance": 55115.0,
-      "pnl": 5115.0,
+      "balance": 54695.0,
+      "pnl": 4695.0,
       "wins": 38,
-      "losses": 74,
+      "losses": 75,
       "breakevens": 41,
       "total_trades": 154,
-      "win_rate": 0.339
+      "win_rate": 0.336
     },
     "strat2": {
       "name": "FVG + VWAP Absorption (User S2)",
@@ -94,11 +94,6 @@
       "win_rate": 0.333
     }
   },
-  "open_trades": [
-    {
-      "id": "57875418",
-      "strategy": "strat1"
-    }
-  ],
+  "open_trades": [],
   "last_updated": "2026-09-23"
 }
