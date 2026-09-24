@@ -5037,17 +5037,17 @@
       "strategy": "strat1",
       "direction": "long",
       "entry": 30752.25,
-      "sl": 30745.5,
+      "sl": 30752.25,
       "tp": 30765.75,
       "contracts": 4,
-      "status": "open",
+      "status": "closed_win",
       "entry_time": "2026-09-23T20:00:13.983671-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 30765.75,
+      "exit_time": "2026-09-23T20:02:19.519777-04:00",
+      "pnl_points": 13.5,
+      "pnl_dollars": 1080.0,
       "reasoning": "HTF=bullish | FVG=False | VWAP=True | Fib=0.5 | session=False | confluence=2/3 | rejection=True",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
