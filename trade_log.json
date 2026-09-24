@@ -5269,6 +5269,23 @@
       "pnl_dollars": 3910.0,
       "reasoning": "15m structure=bearish | DOL=asia_low @ 30651.25 | VWAP rebalance (extended 3 bars past \u00b11SD) | FVG=bearish [30677.00\u201331012.00] | VWAP=30671.55",
       "be_moved": true
+    },
+    {
+      "id": "2ddff71e",
+      "strategy": "smt_dol",
+      "direction": "long",
+      "entry": 30496.0,
+      "sl": 30479.0,
+      "tp": 30530.0,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-09-24T04:28:24.119180-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bullish | DOL=fvg_bearish@30525.00 | Fib=0.618 | FVG15m=bullish | 1mSMT=bullish | disp=[iob:False cisd:False ifvg:True]",
+      "be_moved": false
     }
   ]
 }
