@@ -5241,7 +5241,7 @@
       "strategy": "strat4",
       "direction": "short",
       "entry": 30683.0,
-      "sl": 30780.75,
+      "sl": 30683.0,
       "tp": 30487.5,
       "contracts": 1,
       "status": "open",
@@ -5251,14 +5251,14 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "15m structure=bearish | DOL=asia_low @ 30651.25 | VWAP tap @ 30671.55 | FVG=bearish [30677.00\u201331012.00]",
-      "be_moved": false
+      "be_moved": true
     },
     {
       "id": "77cad417",
       "strategy": "strat6",
       "direction": "short",
       "entry": 30683.0,
-      "sl": 30780.75,
+      "sl": 30683.0,
       "tp": 30487.5,
       "contracts": 1,
       "status": "open",
@@ -5268,7 +5268,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "15m structure=bearish | DOL=asia_low @ 30651.25 | VWAP rebalance (extended 3 bars past \u00b11SD) | FVG=bearish [30677.00\u201331012.00] | VWAP=30671.55",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
