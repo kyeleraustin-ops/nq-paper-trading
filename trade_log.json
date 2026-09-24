@@ -5303,6 +5303,23 @@
       "pnl_dollars": -560.0,
       "reasoning": "HTF=bullish | DOL=fvg_bearish@30525.00 | Fib=0.618 | FVG15m=bullish | 1mSMT=bullish | disp=[iob:False cisd:False ifvg:True]",
       "be_moved": false
+    },
+    {
+      "id": "ca16b983",
+      "strategy": "smt_dol",
+      "direction": "long",
+      "entry": 30485.0,
+      "sl": 30479.0,
+      "tp": 30497.0,
+      "contracts": 4,
+      "status": "open",
+      "entry_time": "2026-09-24T04:32:41.171226-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bullish | DOL=fvg_bearish@30525.00 | Fib=0.618 | FVG15m=bullish | 1mSMT=bullish | disp=[iob:False cisd:False ifvg:True]",
+      "be_moved": false
     }
   ]
 }
