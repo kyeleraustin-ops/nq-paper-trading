@@ -5320,6 +5320,40 @@
       "pnl_dollars": -480.0,
       "reasoning": "HTF=bullish | DOL=fvg_bearish@30525.00 | Fib=0.618 | FVG15m=bullish | 1mSMT=bullish | disp=[iob:False cisd:False ifvg:True]",
       "be_moved": false
+    },
+    {
+      "id": "1d94e9ac",
+      "strategy": "strat4",
+      "direction": "long",
+      "entry": 30773.25,
+      "sl": 30755.0,
+      "tp": 30809.75,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-09-25T00:33:15.512907-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | DOL=prev_day_high @ 30827.50 | VWAP tap @ 30773.68 | FVG=bullish [30722.50\u201330775.50]",
+      "be_moved": false
+    },
+    {
+      "id": "5b03fb56",
+      "strategy": "strat6",
+      "direction": "long",
+      "entry": 30773.25,
+      "sl": 30755.0,
+      "tp": 30809.75,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-09-25T00:33:15.994992-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | DOL=prev_day_high @ 30827.50 | VWAP rebalance (extended 5 bars past \u00b11SD) | FVG=bullish [30722.50\u201330775.50] | VWAP=30773.68",
+      "be_moved": false
     }
   ]
 }
