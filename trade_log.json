@@ -5371,6 +5371,40 @@
       "pnl_dollars": 900.0,
       "reasoning": "15m structure=bullish | DOL=asia_high @ 30792.50 | VWAP tap @ 30779.28 | FVG=bullish [30722.50\u201330775.50]",
       "be_moved": true
+    },
+    {
+      "id": "45b583e9",
+      "strategy": "strat4",
+      "direction": "long",
+      "entry": 30837.0,
+      "sl": 30788.0,
+      "tp": 30935.0,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-09-27T18:39:07.040986-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | DOL=prev_day_high @ 30999.50 | VWAP tap @ 30823.91 | FVG=bullish [30786.50\u201330846.50]",
+      "be_moved": false
+    },
+    {
+      "id": "1d7e5676",
+      "strategy": "strat5",
+      "direction": "long",
+      "entry": 30837.0,
+      "sl": 30788.0,
+      "tp": 30935.0,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-09-27T18:39:07.260318-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | DOL=prev_day_high @ 30999.50 | tap=VWAP @ 30823.91 | absorption=True | no FVG required",
+      "be_moved": false
     }
   ]
 }
