@@ -5439,6 +5439,23 @@
       "pnl_dollars": -2280.0,
       "reasoning": "15m structure=bearish | DOL=asia_low @ 30638.50 | VWAP rebalance (extended 6 bars past \u00b11SD) | FVG=bearish [30669.75\u201330876.75] | VWAP=30668.08",
       "be_moved": false
+    },
+    {
+      "id": "5bdb6170",
+      "strategy": "strat4",
+      "direction": "long",
+      "entry": 31154.5,
+      "sl": 31142.0,
+      "tp": 31179.5,
+      "contracts": 2,
+      "status": "open",
+      "entry_time": "2026-10-04T19:34:08.282582-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | DOL=prev_day_high @ 31282.50 | VWAP tap @ 31149.42 | FVG=bullish [31139.75\u201331157.00]",
+      "be_moved": false
     }
   ]
 }
