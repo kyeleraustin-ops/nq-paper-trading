@@ -5190,7 +5190,7 @@
       "strategy": "strat1",
       "direction": "long",
       "entry": 30657.25,
-      "sl": 30216.0,
+      "sl": 30657.25,
       "tp": 31539.75,
       "contracts": 1,
       "status": "open",
@@ -5200,14 +5200,14 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "HTF=bullish | FVG=True | VWAP=True | Fib=None | session=True | confluence=2/3 | rejection=True",
-      "be_moved": false
+      "be_moved": true
     },
     {
       "id": "23996d0e",
       "strategy": "strat2",
       "direction": "long",
       "entry": 30657.25,
-      "sl": 30216.0,
+      "sl": 30657.25,
       "tp": 31539.75,
       "contracts": 1,
       "status": "open",
@@ -5217,7 +5217,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "HTF=bullish | VWAP reclaim | FVG=bullish | absorption=False | rejection=True",
-      "be_moved": false
+      "be_moved": true
     },
     {
       "id": "7e2ca283",
@@ -5414,12 +5414,12 @@
       "sl": 30792.5,
       "tp": 30469.25,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-09-28T00:25:03.105931-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 30792.5,
+      "exit_time": "2026-10-04T19:25:45.007836-04:00",
+      "pnl_points": -107.75,
+      "pnl_dollars": -2155.0,
       "reasoning": "15m structure=bearish | DOL=asia_low @ 30638.50 | VWAP tap @ 30666.95 | FVG=bearish [30669.75\u201330876.75]",
       "be_moved": false
     },
@@ -5431,12 +5431,12 @@
       "sl": 30792.5,
       "tp": 30450.5,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-09-28T00:26:07.970581-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 30792.5,
+      "exit_time": "2026-10-04T19:25:45.007836-04:00",
+      "pnl_points": -114.0,
+      "pnl_dollars": -2280.0,
       "reasoning": "15m structure=bearish | DOL=asia_low @ 30638.50 | VWAP rebalance (extended 6 bars past \u00b11SD) | FVG=bearish [30669.75\u201330876.75] | VWAP=30668.08",
       "be_moved": false
     }
