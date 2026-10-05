@@ -58,9 +58,9 @@
       "pnl": 40501.6,
       "wins": 2,
       "losses": 3,
-      "breakevens": 1,
+      "breakevens": 2,
       "open_positions": [],
-      "total_trades": 7,
+      "total_trades": 8,
       "win_rate": 0.4
     },
     "strat4": {
@@ -104,7 +104,7 @@
       "strategy": "strat2"
     },
     {
-      "id": "5cbff60d",
+      "id": "4e205f0d",
       "strategy": "swing"
     }
   ],
