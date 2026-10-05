@@ -5507,6 +5507,23 @@
       "pnl_dollars": -854.0,
       "reasoning": "Daily BOS=bullish | Level=prev_wk_high @ 31094.75 | Daily rejection candle | direction=short",
       "be_moved": false
+    },
+    {
+      "id": "a77b4123",
+      "strategy": "swing",
+      "direction": "short",
+      "entry": 31119.75,
+      "sl": 31125.87,
+      "tp": 31107.51,
+      "contracts": 7,
+      "status": "open",
+      "entry_time": "2026-10-04T23:41:08.195778-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "Daily BOS=bullish | Level=prev_wk_high @ 31094.75 | Daily rejection candle | direction=short",
+      "be_moved": false
     }
   ]
 }
