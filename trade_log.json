@@ -5581,7 +5581,7 @@
       "strategy": "swing",
       "direction": "short",
       "entry": 31104.25,
-      "sl": 31125.85,
+      "sl": 31104.25,
       "tp": 31061.05,
       "contracts": 2,
       "status": "open",
@@ -5591,6 +5591,23 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "Daily BOS=bullish | Level=prev_wk_high @ 31094.75 | Daily rejection candle | direction=short",
+      "be_moved": true
+    },
+    {
+      "id": "a41f278a",
+      "strategy": "strat4",
+      "direction": "long",
+      "entry": 31077.25,
+      "sl": 31056.25,
+      "tp": 31119.25,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-10-05T00:09:18.313536-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | DOL=asia_low @ 31117.75 | VWAP tap @ 31147.55 | FVG=bullish [31061.75\u201331119.25]",
       "be_moved": false
     }
   ]
