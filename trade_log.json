@@ -5473,6 +5473,23 @@
       "pnl_dollars": 1050.0,
       "reasoning": "15m structure=bullish | DOL=prev_day_high @ 31282.50 | tap=-1SD @ 31135.77 | absorption=True | no FVG required",
       "be_moved": true
+    },
+    {
+      "id": "514149aa",
+      "strategy": "swing",
+      "direction": "short",
+      "entry": 31108.0,
+      "sl": 31125.86,
+      "tp": 31072.28,
+      "contracts": 2,
+      "status": "open",
+      "entry_time": "2026-10-04T23:09:50.522933-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "Daily BOS=bullish | Level=prev_wk_high @ 31094.75 | Daily rejection candle | direction=short",
+      "be_moved": false
     }
   ]
 }
