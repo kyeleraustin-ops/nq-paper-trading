@@ -5482,14 +5482,31 @@
       "sl": 31108.0,
       "tp": 31072.28,
       "contracts": 2,
-      "status": "open",
+      "status": "closed_be",
       "entry_time": "2026-10-04T23:09:50.522933-04:00",
+      "exit_price": 31108.0,
+      "exit_time": "2026-10-04T23:27:31.571276-04:00",
+      "pnl_points": 0.0,
+      "pnl_dollars": 0.0,
+      "reasoning": "Daily BOS=bullish | Level=prev_wk_high @ 31094.75 | Daily rejection candle | direction=short",
+      "be_moved": true
+    },
+    {
+      "id": "161da684",
+      "strategy": "swing",
+      "direction": "short",
+      "entry": 31104.5,
+      "sl": 31125.85,
+      "tp": 31061.8,
+      "contracts": 2,
+      "status": "open",
+      "entry_time": "2026-10-04T23:27:32.918510-04:00",
       "exit_price": null,
       "exit_time": null,
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "Daily BOS=bullish | Level=prev_wk_high @ 31094.75 | Daily rejection candle | direction=short",
-      "be_moved": true
+      "be_moved": false
     }
   ]
 }
