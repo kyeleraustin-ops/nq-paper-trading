@@ -54,14 +54,14 @@
     },
     "swing": {
       "name": "Weekly Level Fades - Swing (Claude)",
-      "balance": 91864.8,
-      "pnl": 41864.8,
-      "wins": 3,
+      "balance": 93592.8,
+      "pnl": 43592.8,
+      "wins": 4,
       "losses": 3,
       "breakevens": 2,
       "open_positions": [],
       "total_trades": 9,
-      "win_rate": 0.5
+      "win_rate": 0.571
     },
     "strat4": {
       "name": "Structure + DOL + VWAP Tap + FVG (S4)",
@@ -102,10 +102,6 @@
     {
       "id": "23996d0e",
       "strategy": "strat2"
-    },
-    {
-      "id": "79028907",
-      "strategy": "swing"
     },
     {
       "id": "a41f278a",
