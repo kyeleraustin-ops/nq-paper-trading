@@ -5533,12 +5533,12 @@
       "sl": 31125.87,
       "tp": 31106.01,
       "contracts": 6,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-10-04T23:43:14.946972-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 31125.87,
+      "exit_time": "2026-10-04T23:44:18.000467-04:00",
+      "pnl_points": -6.62,
+      "pnl_dollars": -794.4,
       "reasoning": "Daily BOS=bullish | Level=prev_wk_high @ 31094.75 | Daily rejection candle | direction=short",
       "be_moved": false
     }
