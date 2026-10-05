@@ -5479,7 +5479,7 @@
       "strategy": "swing",
       "direction": "short",
       "entry": 31108.0,
-      "sl": 31125.86,
+      "sl": 31108.0,
       "tp": 31072.28,
       "contracts": 2,
       "status": "open",
@@ -5489,7 +5489,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "Daily BOS=bullish | Level=prev_wk_high @ 31094.75 | Daily rejection candle | direction=short",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
