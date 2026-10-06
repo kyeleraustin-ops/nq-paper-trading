@@ -5660,6 +5660,23 @@
       "pnl_dollars": null,
       "reasoning": "HTF=bullish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
       "be_moved": false
+    },
+    {
+      "id": "d6b95438",
+      "strategy": "my_day_trade",
+      "direction": "long",
+      "entry": 31525.0,
+      "sl": 31515.75,
+      "tp": 31543.5,
+      "contracts": 3,
+      "status": "open",
+      "entry_time": "2026-10-06T14:10:43.723753-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | VWAP=31520.35 | near VWAP | rejection=True",
+      "be_moved": false
     }
   ]
 }
