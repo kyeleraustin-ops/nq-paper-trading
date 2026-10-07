@@ -5972,7 +5972,7 @@
       "strategy": "strat2",
       "direction": "long",
       "entry": 31439.75,
-      "sl": 31393.0,
+      "sl": 31439.75,
       "tp": 31533.25,
       "contracts": 1,
       "status": "open",
@@ -5982,7 +5982,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "HTF=bullish | VWAP reclaim | FVG=bullish | absorption=True | rejection=False",
-      "be_moved": false
+      "be_moved": true
     },
     {
       "id": "8d9f028f",
