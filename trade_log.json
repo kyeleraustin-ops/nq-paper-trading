@@ -5989,7 +5989,7 @@
       "strategy": "smt_dol",
       "direction": "short",
       "entry": 31483.25,
-      "sl": 31467.75,
+      "sl": 31483.25,
       "tp": 31452.25,
       "contracts": 2,
       "status": "open",
@@ -5999,7 +5999,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "HTF=bearish | DOL=wickless_high@31458.25 | Fib=0.5 | FVG15m=bearish | 1mSMT=bearish | disp=[iob:False cisd:False ifvg:True]",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
