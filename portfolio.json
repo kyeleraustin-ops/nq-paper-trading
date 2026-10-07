@@ -48,7 +48,7 @@
       "pnl": 22110.0,
       "wins": 8,
       "losses": 18,
-      "breakevens": 9,
+      "breakevens": 10,
       "total_trades": 36,
       "win_rate": 0.308
     },
@@ -98,11 +98,7 @@
     {
       "id": "401caba8",
       "strategy": "strat1"
-    },
-    {
-      "id": "f5953d11",
-      "strategy": "strat2"
     }
   ],
-  "last_updated": "2026-10-06"
+  "last_updated": "2026-10-07"
 }
