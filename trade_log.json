@@ -5983,6 +5983,23 @@
       "pnl_dollars": null,
       "reasoning": "HTF=bullish | VWAP reclaim | FVG=bullish | absorption=True | rejection=False",
       "be_moved": false
+    },
+    {
+      "id": "8d9f028f",
+      "strategy": "smt_dol",
+      "direction": "short",
+      "entry": 31483.25,
+      "sl": 31467.75,
+      "tp": 31452.25,
+      "contracts": 2,
+      "status": "open",
+      "entry_time": "2026-10-06T23:10:55.964852-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bearish | DOL=wickless_high@31458.25 | Fib=0.5 | FVG15m=bearish | 1mSMT=bearish | disp=[iob:False cisd:False ifvg:True]",
+      "be_moved": false
     }
   ]
 }
