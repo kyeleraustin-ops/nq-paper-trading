@@ -6017,6 +6017,23 @@
       "pnl_dollars": -435.0,
       "reasoning": "HTF=bearish | DOL=wickless_low@31433.50 | Fib=0.5 | FVG15m=bearish | 1mSMT=bearish | disp=[iob:False cisd:False ifvg:True]",
       "be_moved": false
+    },
+    {
+      "id": "9f2919d1",
+      "strategy": "smt_dol",
+      "direction": "short",
+      "entry": 31466.0,
+      "sl": 31473.0,
+      "tp": 31452.0,
+      "contracts": 4,
+      "status": "open",
+      "entry_time": "2026-10-06T23:41:43.246362-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bearish | DOL=wickless_low@31433.50 | Fib=0.5 | FVG15m=bearish | 1mSMT=bearish | disp=[iob:False cisd:True ifvg:True]",
+      "be_moved": false
     }
   ]
 }
