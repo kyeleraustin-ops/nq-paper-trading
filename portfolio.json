@@ -60,7 +60,7 @@
       "losses": 3,
       "breakevens": 2,
       "open_positions": [],
-      "total_trades": 9,
+      "total_trades": 10,
       "win_rate": 0.571
     },
     "strat4": {
@@ -94,6 +94,11 @@
       "win_rate": 0.357
     }
   },
-  "open_trades": [],
+  "open_trades": [
+    {
+      "id": "7d8231dd",
+      "strategy": "swing"
+    }
+  ],
   "last_updated": "2026-10-07"
 }

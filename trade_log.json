@@ -6034,6 +6034,23 @@
       "pnl_dollars": -560.0,
       "reasoning": "HTF=bearish | DOL=wickless_low@31433.50 | Fib=0.5 | FVG15m=bearish | 1mSMT=bearish | disp=[iob:False cisd:True ifvg:True]",
       "be_moved": false
+    },
+    {
+      "id": "7d8231dd",
+      "strategy": "swing",
+      "direction": "short",
+      "entry": 31375.5,
+      "sl": 31313.88,
+      "tp": 31252.26,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-10-07T20:54:59.559292-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "Daily BOS=bullish | Level=prev_wk_high @ 31282.50 | Daily rejection candle | direction=short",
+      "be_moved": false
     }
   ]
 }
