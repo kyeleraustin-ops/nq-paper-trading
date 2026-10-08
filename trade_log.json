@@ -6136,6 +6136,23 @@
       "pnl_dollars": -830.0,
       "reasoning": "HTF=bullish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
       "be_moved": false
+    },
+    {
+      "id": "ccf8de33",
+      "strategy": "strat1",
+      "direction": "long",
+      "entry": 31206.25,
+      "sl": 31200.5,
+      "tp": 31217.75,
+      "contracts": 4,
+      "status": "open",
+      "entry_time": "2026-10-08T06:33:29.100779-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bullish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
+      "be_moved": false
     }
   ]
 }
