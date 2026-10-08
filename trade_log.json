@@ -6068,6 +6068,23 @@
       "pnl_dollars": 1252.4,
       "reasoning": "Daily BOS=bullish | Level=prev_wk_high @ 31282.50 | Daily rejection candle | direction=short",
       "be_moved": false
+    },
+    {
+      "id": "48e6d553",
+      "strategy": "swing",
+      "direction": "short",
+      "entry": 31376.5,
+      "sl": 31313.88,
+      "tp": 31251.26,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-10-07T21:00:21.527628-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "Daily BOS=bullish | Level=prev_wk_high @ 31282.50 | Daily rejection candle | direction=short",
+      "be_moved": false
     }
   ]
 }
