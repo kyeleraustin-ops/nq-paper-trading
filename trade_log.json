@@ -6085,6 +6085,23 @@
       "pnl_dollars": 1252.4,
       "reasoning": "Daily BOS=bullish | Level=prev_wk_high @ 31282.50 | Daily rejection candle | direction=short",
       "be_moved": false
+    },
+    {
+      "id": "0bc5bca7",
+      "strategy": "strat1",
+      "direction": "long",
+      "entry": 31404.5,
+      "sl": 31401.5,
+      "tp": 31410.5,
+      "contracts": 8,
+      "status": "open",
+      "entry_time": "2026-10-08T01:29:45.846382-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bullish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
+      "be_moved": false
     }
   ]
 }
