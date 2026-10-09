@@ -6213,12 +6213,12 @@
       "sl": 31070.25,
       "tp": 31000.5,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-10-08T21:57:57.904836-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 31070.25,
+      "exit_time": "2026-10-08T22:10:33.369435-04:00",
+      "pnl_points": -23.25,
+      "pnl_dollars": -465.0,
       "reasoning": "HTF=bearish | FVG=True | VWAP=False | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
       "be_moved": false
     }
