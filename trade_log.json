@@ -6323,6 +6323,23 @@
       "pnl_dollars": -480.0,
       "reasoning": "HTF=bearish | FVG=True | VWAP=False | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
       "be_moved": false
+    },
+    {
+      "id": "5b8533be",
+      "strategy": "strat1",
+      "direction": "short",
+      "entry": 31073.75,
+      "sl": 31081.0,
+      "tp": 31059.25,
+      "contracts": 3,
+      "status": "open",
+      "entry_time": "2026-10-08T23:33:11.676968-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bearish | FVG=True | VWAP=False | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
+      "be_moved": false
     }
   ]
 }
