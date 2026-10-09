@@ -6244,7 +6244,7 @@
       "strategy": "strat1",
       "direction": "short",
       "entry": 31072.5,
-      "sl": 31081.0,
+      "sl": 31072.5,
       "tp": 31055.5,
       "contracts": 3,
       "status": "open",
@@ -6254,7 +6254,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "HTF=bearish | FVG=True | VWAP=False | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
