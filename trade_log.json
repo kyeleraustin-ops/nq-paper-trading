@@ -6578,6 +6578,23 @@
       "pnl_dollars": 0.0,
       "reasoning": "15m structure=bullish | DOL=prev_day_high @ 31266.50 | VWAP rebalance (extended 4 bars past \u00b11SD) | FVG=bullish [31184.00\u201331189.75] | VWAP=31187.72",
       "be_moved": true
+    },
+    {
+      "id": "a59a3665",
+      "strategy": "strat5",
+      "direction": "long",
+      "entry": 31189.5,
+      "sl": 31184.25,
+      "tp": 31200.0,
+      "contracts": 5,
+      "status": "open",
+      "entry_time": "2026-10-11T19:16:09.574630-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | DOL=prev_day_high @ 31266.50 | tap=VWAP @ 31188.61 | absorption=True | no FVG required",
+      "be_moved": false
     }
   ]
 }
