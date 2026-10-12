@@ -6782,6 +6782,23 @@
       "pnl_dollars": -560.0,
       "reasoning": "15m structure=bullish | DOL=prev_day_high @ 31266.50 | VWAP tap @ 31237.29 | FVG=bullish [31224.50\u201331244.00]",
       "be_moved": false
+    },
+    {
+      "id": "edac2b4e",
+      "strategy": "strat4",
+      "direction": "long",
+      "entry": 31241.25,
+      "sl": 31232.75,
+      "tp": 31258.25,
+      "contracts": 3,
+      "status": "open",
+      "entry_time": "2026-10-12T01:44:38.260485-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | DOL=prev_day_high @ 31266.50 | VWAP tap @ 31237.38 | FVG=bullish [31224.50\u201331244.00]",
+      "be_moved": false
     }
   ]
 }
