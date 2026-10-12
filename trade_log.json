@@ -6805,7 +6805,7 @@
       "strategy": "strat6",
       "direction": "long",
       "entry": 31176.0,
-      "sl": 31159.25,
+      "sl": 31176.0,
       "tp": 31209.5,
       "contracts": 1,
       "status": "open",
@@ -6815,7 +6815,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "15m structure=bullish | DOL=london_high @ 31208.50 | VWAP rebalance (extended 6 bars past \u00b11SD) | FVG=bullish [31139.75\u201331183.00] | VWAP=31205.70",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
