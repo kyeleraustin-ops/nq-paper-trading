@@ -6646,6 +6646,40 @@
       "pnl_dollars": null,
       "reasoning": "Daily BOS=bullish | Level=prev_wk_high @ 31282.50 | Daily rejection candle | direction=short",
       "be_moved": false
+    },
+    {
+      "id": "5da0bbdf",
+      "strategy": "strat4",
+      "direction": "long",
+      "entry": 31234.75,
+      "sl": 31219.25,
+      "tp": 31265.75,
+      "contracts": 2,
+      "status": "open",
+      "entry_time": "2026-10-12T00:13:39.890843-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | DOL=prev_day_high @ 31266.50 | VWAP tap @ 31234.42 | FVG=bullish [31219.50\u201331256.00]",
+      "be_moved": false
+    },
+    {
+      "id": "17e2dfdc",
+      "strategy": "strat6",
+      "direction": "long",
+      "entry": 31234.75,
+      "sl": 31219.25,
+      "tp": 31265.75,
+      "contracts": 2,
+      "status": "open",
+      "entry_time": "2026-10-12T00:13:40.312859-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bullish | DOL=prev_day_high @ 31266.50 | VWAP rebalance (extended 2 bars past \u00b11SD) | FVG=bullish [31219.50\u201331256.00] | VWAP=31234.42",
+      "be_moved": false
     }
   ]
 }
