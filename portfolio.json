@@ -38,7 +38,7 @@
       "pnl": 8335.0,
       "wins": 40,
       "losses": 101,
-      "breakevens": 51,
+      "breakevens": 52,
       "total_trades": 193,
       "win_rate": 0.284
     },
@@ -48,7 +48,7 @@
       "pnl": 21195.0,
       "wins": 8,
       "losses": 20,
-      "breakevens": 10,
+      "breakevens": 11,
       "total_trades": 39,
       "win_rate": 0.286
     },
@@ -95,14 +95,6 @@
     }
   },
   "open_trades": [
-    {
-      "id": "2450ef54",
-      "strategy": "strat1"
-    },
-    {
-      "id": "0b8107ed",
-      "strategy": "strat2"
-    },
     {
       "id": "f3b69150",
       "strategy": "swing"
