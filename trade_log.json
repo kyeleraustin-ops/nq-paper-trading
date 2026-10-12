@@ -6629,6 +6629,23 @@
       "pnl_dollars": 0.0,
       "reasoning": "15m structure=bullish | DOL=prev_day_high @ 31266.50 | VWAP tap @ 31239.44 | FVG=bullish [31219.50\u201331256.00]",
       "be_moved": true
+    },
+    {
+      "id": "f3b69150",
+      "strategy": "swing",
+      "direction": "short",
+      "entry": 31240.5,
+      "sl": 31313.74,
+      "tp": 31094.02,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-10-12T00:00:07.305687-04:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "Daily BOS=bullish | Level=prev_wk_high @ 31282.50 | Daily rejection candle | direction=short",
+      "be_moved": false
     }
   ]
 }
