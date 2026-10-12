@@ -70,7 +70,7 @@
       "wins": 6,
       "losses": 16,
       "breakevens": 8,
-      "total_trades": 30,
+      "total_trades": 31,
       "win_rate": 0.273
     },
     "strat5": {
@@ -106,6 +106,10 @@
     {
       "id": "f3b69150",
       "strategy": "swing"
+    },
+    {
+      "id": "88b18e38",
+      "strategy": "strat4"
     }
   ],
   "last_updated": "2026-10-12"
