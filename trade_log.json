@@ -6618,7 +6618,7 @@
       "strategy": "strat4",
       "direction": "long",
       "entry": 31237.5,
-      "sl": 31219.25,
+      "sl": 31237.5,
       "tp": 31274.0,
       "contracts": 1,
       "status": "open",
@@ -6628,7 +6628,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "15m structure=bullish | DOL=prev_day_high @ 31266.50 | VWAP tap @ 31239.44 | FVG=bullish [31219.50\u201331256.00]",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
