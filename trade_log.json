@@ -6825,12 +6825,12 @@
       "sl": 29653.75,
       "tp": 29677.0,
       "contracts": 3,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-10-20T04:55:15.648040-04:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 29653.75,
+      "exit_time": "2026-10-20T04:56:19.941788-04:00",
+      "pnl_points": -7.75,
+      "pnl_dollars": -465.0,
       "reasoning": "15m structure=bullish | DOL=london_high @ 29736.75 | tap=VWAP @ 29650.01 | absorption=True | no FVG required",
       "be_moved": false
     }
