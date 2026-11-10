@@ -48,8 +48,8 @@
       "pnl": 21370.0,
       "wins": 12,
       "losses": 28,
-      "breakevens": 13,
-      "total_trades": 54,
+      "breakevens": 14,
+      "total_trades": 55,
       "win_rate": 0.3
     },
     "swing": {
@@ -100,7 +100,7 @@
       "strategy": "strat1"
     },
     {
-      "id": "3976b29b",
+      "id": "0667cc65",
       "strategy": "strat2"
     }
   ],
