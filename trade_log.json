@@ -7207,6 +7207,40 @@
       "pnl_dollars": -570.0,
       "reasoning": "HTF=bearish | VWAP reclaim | FVG=bearish | absorption=False | rejection=True",
       "be_moved": false
+    },
+    {
+      "id": "302faa46",
+      "strategy": "strat1",
+      "direction": "short",
+      "entry": 28005.75,
+      "sl": 28014.75,
+      "tp": 27987.75,
+      "contracts": 3,
+      "status": "open",
+      "entry_time": "2026-11-10T05:00:09.956796-05:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bearish | FVG=True | VWAP=True | Fib=0.5 | session=True | confluence=3/3 | rejection=True",
+      "be_moved": false
+    },
+    {
+      "id": "8f658a65",
+      "strategy": "strat2",
+      "direction": "short",
+      "entry": 28005.75,
+      "sl": 28014.75,
+      "tp": 27987.75,
+      "contracts": 3,
+      "status": "open",
+      "entry_time": "2026-11-10T05:00:10.309569-05:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bearish | VWAP reclaim | FVG=bearish | absorption=False | rejection=True",
+      "be_moved": false
     }
   ]
 }
