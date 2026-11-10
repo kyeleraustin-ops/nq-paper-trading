@@ -7097,12 +7097,12 @@
       "sl": 27992.75,
       "tp": 27809.0,
       "contracts": 1,
-      "status": "open",
+      "status": "closed_loss",
       "entry_time": "2026-11-10T04:25:24.596128-05:00",
-      "exit_price": null,
-      "exit_time": null,
-      "pnl_points": null,
-      "pnl_dollars": null,
+      "exit_price": 27992.75,
+      "exit_time": "2026-11-10T04:41:03.819526-05:00",
+      "pnl_points": -61.25,
+      "pnl_dollars": -1225.0,
       "reasoning": "HTF=bearish | FVG=True | VWAP=False | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
       "be_moved": false
     }
