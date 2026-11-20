@@ -7496,6 +7496,23 @@
       "pnl_dollars": null,
       "reasoning": "15m structure=bearish | DOL=asia_low @ 26271.00 | tap=+1SD @ 26302.20 | absorption=True | no FVG required",
       "be_moved": false
+    },
+    {
+      "id": "6bfad1eb",
+      "strategy": "strat2",
+      "direction": "short",
+      "entry": 26338.0,
+      "sl": 26572.75,
+      "tp": 25868.5,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-11-20T00:35:53.759709-05:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bearish | VWAP reclaim | FVG=bearish | absorption=True | rejection=False",
+      "be_moved": false
     }
   ]
 }
