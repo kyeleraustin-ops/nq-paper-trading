@@ -7547,6 +7547,23 @@
       "pnl_dollars": null,
       "reasoning": "HTF=bearish | FVG=True | VWAP=True | Fib=None | session=True | confluence=2/3 | rejection=True",
       "be_moved": false
+    },
+    {
+      "id": "5b264ddf",
+      "strategy": "strat6",
+      "direction": "short",
+      "entry": 26328.75,
+      "sl": 26356.25,
+      "tp": 26273.75,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-11-20T01:07:16.066110-05:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bearish | DOL=asia_low @ 26271.00 | VWAP rebalance (extended 2 bars past \u00b11SD) | FVG=bearish [26317.50\u201326385.25] | VWAP=26313.06",
+      "be_moved": false
     }
   ]
 }
