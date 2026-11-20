@@ -7570,7 +7570,7 @@
       "strategy": "strat6",
       "direction": "short",
       "entry": 26322.5,
-      "sl": 26356.25,
+      "sl": 26322.5,
       "tp": 26255.0,
       "contracts": 1,
       "status": "open",
@@ -7580,7 +7580,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "15m structure=bearish | DOL=asia_low @ 26271.00 | VWAP rebalance (extended 3 bars past \u00b11SD) | FVG=bearish [26317.50\u201326385.25] | VWAP=26316.51",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
