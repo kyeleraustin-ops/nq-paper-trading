@@ -7604,7 +7604,7 @@
       "strategy": "strat6",
       "direction": "short",
       "entry": 26328.5,
-      "sl": 26348.75,
+      "sl": 26328.5,
       "tp": 26288.0,
       "contracts": 1,
       "status": "open",
@@ -7614,7 +7614,7 @@
       "pnl_points": null,
       "pnl_dollars": null,
       "reasoning": "15m structure=bearish | DOL=london_low @ 26306.50 | VWAP rebalance (extended 2 bars past \u00b11SD) | FVG=bearish [26317.50\u201326385.25] | VWAP=26315.23",
-      "be_moved": false
+      "be_moved": true
     }
   ]
 }
