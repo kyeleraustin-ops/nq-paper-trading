@@ -7598,6 +7598,23 @@
       "pnl_dollars": 0.0,
       "reasoning": "15m structure=bearish | DOL=asia_low @ 26271.00 | VWAP rebalance (extended 2 bars past \u00b11SD) | FVG=bearish [26317.50\u201326385.25] | VWAP=26315.89",
       "be_moved": true
+    },
+    {
+      "id": "1dec7b45",
+      "strategy": "strat6",
+      "direction": "short",
+      "entry": 26328.5,
+      "sl": 26348.75,
+      "tp": 26288.0,
+      "contracts": 1,
+      "status": "open",
+      "entry_time": "2026-11-20T02:12:27.073686-05:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "15m structure=bearish | DOL=london_low @ 26306.50 | VWAP rebalance (extended 2 bars past \u00b11SD) | FVG=bearish [26317.50\u201326385.25] | VWAP=26315.23",
+      "be_moved": false
     }
   ]
 }
