@@ -7751,6 +7751,23 @@
       "pnl_dollars": -1335.0,
       "reasoning": "HTF=bearish | FVG=False | VWAP=True | Fib=0.618 | session=False | confluence=2/3 | rejection=True",
       "be_moved": false
+    },
+    {
+      "id": "626102ca",
+      "strategy": "strat1",
+      "direction": "short",
+      "entry": 25888.25,
+      "sl": 25904.75,
+      "tp": 25855.25,
+      "contracts": 2,
+      "status": "open",
+      "entry_time": "2026-11-23T03:12:35.425116-05:00",
+      "exit_price": null,
+      "exit_time": null,
+      "pnl_points": null,
+      "pnl_dollars": null,
+      "reasoning": "HTF=bearish | FVG=False | VWAP=True | Fib=0.5 | session=True | confluence=2/3 | rejection=True",
+      "be_moved": false
     }
   ]
 }
