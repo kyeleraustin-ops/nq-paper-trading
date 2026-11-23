@@ -34,23 +34,23 @@
     },
     "strat1": {
       "name": "HTF Flow + Session Levels + Confluence (User S1)",
-      "balance": 55500.0,
-      "pnl": 5500.0,
-      "wins": 45,
+      "balance": 64850.0,
+      "pnl": 14850.0,
+      "wins": 46,
       "losses": 115,
       "breakevens": 54,
       "total_trades": 215,
-      "win_rate": 0.281
+      "win_rate": 0.286
     },
     "strat2": {
       "name": "FVG + VWAP Absorption (User S2)",
-      "balance": 75660.0,
-      "pnl": 25660.0,
-      "wins": 14,
+      "balance": 85050.0,
+      "pnl": 35050.0,
+      "wins": 15,
       "losses": 28,
       "breakevens": 14,
       "total_trades": 57,
-      "win_rate": 0.333
+      "win_rate": 0.349
     },
     "swing": {
       "name": "Weekly Level Fades - Swing (Claude)",
@@ -65,23 +65,23 @@
     },
     "strat4": {
       "name": "Structure + DOL + VWAP Tap + FVG (S4)",
-      "balance": 47810.0,
-      "pnl": -2190.0,
-      "wins": 6,
+      "balance": 53350.0,
+      "pnl": 3350.0,
+      "wins": 7,
       "losses": 18,
       "breakevens": 8,
       "total_trades": 33,
-      "win_rate": 0.25
+      "win_rate": 0.28
     },
     "strat5": {
       "name": "Structure + DOL + VWAP/Band Tap + Absorption (S5)",
-      "balance": 52400.0,
-      "pnl": 2400.0,
-      "wins": 11,
+      "balance": 58990.0,
+      "pnl": 8990.0,
+      "wins": 12,
       "losses": 15,
       "breakevens": 12,
       "total_trades": 39,
-      "win_rate": 0.423
+      "win_rate": 0.444
     },
     "strat6": {
       "name": "Structure + DOL + VWAP Rebalance + FVG (S6)",
@@ -94,23 +94,6 @@
       "win_rate": 0.522
     }
   },
-  "open_trades": [
-    {
-      "id": "959f2356",
-      "strategy": "strat5"
-    },
-    {
-      "id": "6bfad1eb",
-      "strategy": "strat2"
-    },
-    {
-      "id": "5c41feb8",
-      "strategy": "strat4"
-    },
-    {
-      "id": "5f4698ed",
-      "strategy": "strat1"
-    }
-  ],
-  "last_updated": "2026-11-20"
+  "open_trades": [],
+  "last_updated": "2026-11-22"
 }
